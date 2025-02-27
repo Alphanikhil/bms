@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "usn": "ITD24AI118",
+      "name": "NIKHIL",
+      "branch": "AIML02",
+      "room_alloted": "BSN 303"
+    },
+    {
+      "usn": "ITD24AI119",
+      "name": "John Doe",
+      "branch": "AIML02",
+      "room_alloted": "BSN 303"
+    },
+    {
+      "usn": "ITD24AI120",
+      "name": "Jane Smith",
+      "branch": "AIML02",
+      "room_alloted": "BSN 303"
+    }
+  ]
+}

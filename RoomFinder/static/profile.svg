@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <style>
+    .bg { fill: #2563eb; }
+    .face { fill: #fbbf24; }
+    .eyes { fill: #1e293b; }
+    .whiskers { stroke: #1e293b; stroke-width: 2; }
+  </style>
+  <circle class="bg" cx="75" cy="75" r="75"/>
+  <circle class="face" cx="75" cy="75" r="55"/>
+  <circle class="eyes" cx="55" cy="65" r="5"/>
+  <circle class="eyes" cx="95" cy="65" r="5"/>
+  <path class="whiskers" d="M45,85 L25,80 M45,90 L25,90 M45,95 L25,100"/>
+  <path class="whiskers" d="M105,85 L125,80 M105,90 L125,90 M105,95 L125,100"/>
+  <path d="M70,80 Q75,85 80,80" stroke="#1e293b" stroke-width="2" fill="none"/>
+</svg>
