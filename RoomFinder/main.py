@@ -9,10 +9,13 @@ logging.basicConfig(level=logging.DEBUG)
 app = Flask(__name__)
 app.secret_key = os.environ.get("SESSION_SECRET", "dev-secret-key")
 
+# Define the path to the data.json file
+DATA_FILE_PATH = os.path.join(os.path.dirname(__file__), 'data.json')
+
 def load_students():
     """Load students from JSON file."""
     try:
-        with open('data.json', 'r') as f:
+        with open(DATA_FILE_PATH, 'r') as f:
             data = json.load(f)
             logging.debug(f"Loaded students: {data.get('students', [])}")
             return data.get('students', [])
@@ -22,7 +25,7 @@ def load_students():
 
 def save_students(students):
     """Save students to JSON file."""
-    with open('data.json', 'w') as f:
+    with open(DATA_FILE_PATH, 'w') as f:
         json.dump({'students': students}, f, indent=2)
 
 def validate_usn(usn):
