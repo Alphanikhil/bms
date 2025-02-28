@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request, flash, redirect, url_for, jsonify
 import logging
 import json
-import csv
 import os
 
 # Configure logging
@@ -15,8 +14,10 @@ def load_students():
     try:
         with open('data.json', 'r') as f:
             data = json.load(f)
+            logging.debug(f"Loaded students: {data.get('students', [])}")
             return data.get('students', [])
     except FileNotFoundError:
+        logging.error("data.json file not found")
         return []
 
 def save_students(students):
@@ -32,12 +33,14 @@ def validate_usn(usn):
 def index():
     if request.method == 'POST':
         usn = request.form.get('usn', '').strip().upper()
+        logging.debug(f"Received USN: {usn}")
 
         if not validate_usn(usn):
             flash('Please enter your USN', 'danger')
         else:
             students = load_students()
             student = next((s for s in students if s['usn'] == usn), None)
+            logging.debug(f"Found student: {student}")
             if student:
                 return redirect(url_for('student_details', usn=usn))
             else:
