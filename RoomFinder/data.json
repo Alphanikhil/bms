@@ -18,7 +18,8 @@
         },
         {
             "usn": "1BY24AI023",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "AVANI S SHETTY"
         },
         {
             "usn": "1BY24AI027",
@@ -26,7 +27,8 @@
         },
         {
             "usn": "1BY24AI051",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "HARISH N"
         },
         {
             "usn": "1BY24AI064",
@@ -37,7 +39,7 @@
             "room_alloted": "A021"
         },
         {
-            "usn":  "1BY24A1081",
+            "usn": "1BY24A1081",
             "room_alloted": "A021"
         },
         {
@@ -54,11 +56,13 @@
         },
         {
             "usn": "1BY24AI144",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "SHARANYA S"
         },
         {
             "usn": "1BY24AI155",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "SHREYAS R"
         },
         {
             "usn": "1BY24AI179",
@@ -66,19 +70,23 @@
         },
         {
             "usn": "1BY24AI186",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "VEDANTH U"
         },
         {
             "usn": "1TD24AI044",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "B NITEESH"
         },
         {
             "usn": "1BY24AI002",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "ABHILASH HIREMATH"
         },
         {
             "usn": "1BY24AI007",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "ADITYA PRASAD PADHY"
         },
         {
             "usn": "1BY24AI012",
@@ -86,19 +94,23 @@
         },
         {
             "usn": "1BY24AI013",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "AMAN K M"
         },
         {
             "usn": "1BY24AI015",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "ANANYA G P"
         },
         {
             "usn": "1BY24AI017",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "ANJALI SAGAR"
         },
         {
             "usn": "1BY24AI019",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "ASHISH SHARMA"
         },
         {
             "usn": "1BY24AI020",
@@ -106,11 +118,13 @@
         },
         {
             "usn": "1BY24AI022",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "ATHMABHIRAM S J"
         },
         {
             "usn": "1BY24AI033",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "CHETHAN KUMAR U"
         },
         {
             "usn": "1BY24AI034",
@@ -118,11 +132,13 @@
         },
         {
             "usn": "1BY24AI036",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "CHITTEM ROHITHA"
         },
         {
             "usn": "1BY24AI037",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "DEEPAK SURESH NAIK"
         },
         {
             "usn": "1BY24AI040",
@@ -130,19 +146,23 @@
         },
         {
             "usn": "1BY24AI041",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "GOWTHAM M R"
         },
         {
             "usn": "1BY24AI049",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "GURUMJ REDDY P"
         },
         {
             "usn": "1BY24AI050",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "HARDIK SANTOSH GAONKAR"
         },
         {
             "usn": "1BY24AI052",
-            "room_alloted": "A021"
+            "room_alloted": "A021",
+            "name": "HARSHITH GOWDA"
         },
         {
             "usn": "1TD24CS085",
@@ -174,7 +194,8 @@
         },
         {
             "usn": "1TD24AI094",
-            "room_alloted": "A022"
+            "room_alloted": "A022",
+            "name": "KUNAL DINESH KUMAR SAH"
         },
         {
             "usn": "1TE24CS173",
@@ -186,15 +207,18 @@
         },
         {
             "usn": "1BY24AI094",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "NINGANAGOUDA RUDRAGOUDA"
         },
         {
             "usn": "1BY24AI096",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "NITISH Y PUJAR"
         },
         {
             "usn": "1BY24AI099",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "PALLAVI SADASHIV GASTI"
         },
         {
             "usn": "1BY24AI101",
@@ -202,7 +226,8 @@
         },
         {
             "usn": "1BY24AI103",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "POORVI M"
         },
         {
             "usn": "1BY24AI105",
@@ -210,27 +235,33 @@
         },
         {
             "usn": "1BY24AI107",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "PRAJWAL N R"
         },
         {
             "usn": "1BY24AI112",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "PRATHIKSHA C"
         },
         {
             "usn": "1BY24AI113",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "PRATHWEESH VIDYADHAR DIXIT"
         },
         {
             "usn": "1BY24AI124",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "REKHA BASAPPA HOSAMANI"
         },
         {
             "usn": "1BY24AI125",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "REYYI SHREYAS"
         },
         {
             "usn": "1BY24AI127",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "ROHIT MALLIKARJUN HUDGE"
         },
         {
             "usn": "1BY24AI132",
@@ -238,7 +269,8 @@
         },
         {
             "usn": "1BY24AI135",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "SANIKA B R"
         },
         {
             "usn": "1BY24AI136",
@@ -246,7 +278,8 @@
         },
         {
             "usn": "1BY24AI140",
-            "room_alloted": "A104"
+            "room_alloted": "A104",
+            "name": "SATVIKA P"
         },
         {
             "usn": "1BY24AI141",
@@ -337,7 +370,7 @@
             "room_alloted": "BSN 103"
         },
         {
-            "usn":  "1BY24CS323",
+            "usn": "1BY24CS323",
             "room_alloted": "BSN 103"
         },
         {
@@ -402,83 +435,103 @@
         },
         {
             "usn": "1BY24CB040",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "PRIYANKA H NAVALE"
         },
         {
             "usn": "1BY24CB041",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "PRIYANSHI GUPTA"
         },
         {
             "usn": "1BY24CB042",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "PRIYANSHU SHEKHAR"
         },
         {
             "usn": "1BY24CB043",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "PURAV MONU"
         },
         {
             "usn": "1BY24CB044",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "PUTTUR SOWMYA"
         },
         {
             "usn": "1BY24CB045",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "RAHUL N MURTHY"
         },
         {
             "usn": "1BY24CB046",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "MUEEB AZEEZ KHAN"
         },
         {
             "usn": "1BY24CB047",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "ROHAN CHANDMKANTH"
         },
         {
             "usn": "1BY24CB048",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "ROHIT KUMAR YADAV"
         },
         {
             "usn": "1BY24CB049",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "ROUNAK SAMANTA"
         },
         {
             "usn": "1BY24CB050",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "SAIRATAN M KADAM"
         },
         {
             "usn": "1BY24CB051",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "SAMEER BARALA"
         },
         {
             "usn": "1BY24CB052",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "SANIDHYA R ACHARYA"
         },
         {
             "usn": "1BY24CB053",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "SANJANA NAIK"
         },
         {
             "usn": "1BY24CB054",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "SHAMNKUMAR KHAJURI"
         },
         {
             "usn": "1BY24CB055",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "SUDHAN JADHAV"
         },
         {
             "usn": "1BY24CB056",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "SUHMS M"
         },
         {
             "usn": "1BY24CB057",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "TANUSH JONNADULA"
         },
         {
             "usn": "1BY24CB058",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "TANYASRI E Y"
         },
         {
             "usn": "1BY24CB059",
-            "room_alloted": "BSN 103"
+            "room_alloted": "BSN 103",
+            "name": "TEJAS GOWDA L"
         },
         {
             "usn": "1BY24CS341",
@@ -522,13 +575,11 @@
         },
         {
             "usn": "1TD24CS003",
-            "room_alloted": "BSN 104",
-            "name": "CS ABHINAV SINGH PREM NATH KUMAR"
+            "room_alloted": "BSN 104"
         },
         {
             "usn": "1TD24CS004",
-            "room_alloted": "BSN 104",
-            "name": "CS ABHIRAGINI K KAMESHWAR SINGH"
+            "room_alloted": "BSN 104"
         },
         {
             "usn": "1TD24CS005",
@@ -536,8 +587,7 @@
         },
         {
             "usn": "1TD24CS006",
-            "room_alloted": "BSN 104",
-            "name": "CS ABHIRAM R RAM MOHAN S"
+            "room_alloted": "BSN 104"
         },
         {
             "usn": "1TD24CS007",
@@ -601,178 +651,209 @@
         },
         {
             "usn": "1BY24CB060",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "TEJAS K S"
         },
         {
             "usn": "1BY24CB061",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "THANMY R"
         },
         {
             "usn": "1BY24CB062",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "VIJVAL B V"
         },
         {
             "usn": "1BY24CB063",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "VIKASINI SIVABALAN"
         },
         {
             "usn": "1BY24CV014",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "DARSHAN S"
         },
         {
             "usn": "1BY24CV015",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "DATHA SHARMA A R"
         },
         {
             "usn": "1BY24CV002",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "ABHISHEK THAKUR"
         },
         {
             "usn": "1BY24CV009",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "BHAARATHVEDHANTH BKR"
         },
         {
             "usn": "1BY24CV010",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "BHARATH M"
         },
         {
             "usn": "1BY24CV012",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "CHAVAN PRAVIN PRAKASH"
         },
         {
             "usn": "1BY24CV013",
-            "room_alloted": "BSN 104"
+            "room_alloted": "BSN 104",
+            "name": "CHINTAM YATIN REDDY"
         },
         {
             "usn": "1BY24EE040",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "NEMITHA V"
         },
         {
-            "usn":  "1BY24EE041",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE041",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "NITHIN B"
         },
         {
             "usn": "1BY24EE042",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "PRANAV JOGINDER"
         },
         {
             "usn": "1BY24EE043",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "PRATHYUSH B"
         },
         {
-            "usn":  "1BY24EE044",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE044",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "PRATIK V PATIL"
         },
         {
             "usn": "1BY24EE045",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "R THRIVIKRAM"
         },
         {
             "usn": "1BY24EE046",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "RACHITHA C"
         },
         {
             "usn": "1BY24EE047",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "ROHAN MUDGAL"
         },
         {
-            "usn":  "1BY24EE048",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE048",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SAMBHRAM RAM RANE"
         },
         {
-            "usn":  "1BY24EE049",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE049",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SANJANA S TN"
         },
         {
             "usn": "1BY24EE050",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SANJAY M"
         },
         {
             "usn": "1BY24EE051",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SAURABH KUMAR"
         },
         {
             "usn": "1BY24EE052",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SHREERAKSHA KIRAN"
         },
         {
-            "usn":  "1BY24EE054",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE054",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SHREYAS SATHYA"
         },
         {
-            "usn":  "1BY24EE055",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE055",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SHREYASH TIWARI"
         },
         {
-            "usn":  "1BY24EE056",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE056",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SIDDHARTH GAUTAM"
         },
         {
             "usn": "1BY24EE057",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SUBRAHMANYA VIRENDRA"
         },
         {
-            "usn":  "1BY24EE058",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE058",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SUPREET S NIMBALKAR"
         },
         {
-            "usn":  "1BY24EE059",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE059",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SURAIYA C H"
         },
         {
-            "usn":  "1BY24EE060",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE060",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SUSHANTH P A"
         },
         {
             "usn": "1TE24CS142",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24C5143",
+            "usn": "1TE24C5143",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS144",
+            "usn": "1TE24CS144",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS145",
+            "usn": "1TE24CS145",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS146",
+            "usn": "1TE24CS146",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS147",
+            "usn": "1TE24CS147",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS148",
+            "usn": "1TE24CS148",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS149",
+            "usn": "1TE24CS149",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS150",
+            "usn": "1TE24CS150",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS151",
+            "usn": "1TE24CS151",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS152",
+            "usn": "1TE24CS152",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS153",
+            "usn": "1TE24CS153",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS154",
+            "usn": "1TE24CS154",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
@@ -780,27 +861,27 @@
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS156",
+            "usn": "1TE24CS156",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS157",
+            "usn": "1TE24CS157",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS158",
+            "usn": "1TE24CS158",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS159",
+            "usn": "1TE24CS159",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS160",
+            "usn": "1TE24CS160",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS161",
+            "usn": "1TE24CS161",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
@@ -808,7 +889,7 @@
             "room_alloted": "LAB BLOCK CR-204"
         },
         {
-            "usn":  "1BY24EC023",
+            "usn": "1BY24EC023",
             "room_alloted": "LAB BLOCK CR-204"
         },
         {
@@ -816,16 +897,18 @@
             "room_alloted": "LAB BLOCK CR-204"
         },
         {
-            "usn":  "1BY24EC025",
+            "usn": "1BY24EC025",
             "room_alloted": "LAB BLOCK CR-204"
         },
         {
-            "usn":  "1BY24EC026",
-            "room_alloted": "LAB BLOCK CR-204"
+            "usn": "1BY24EC026",
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "ARNAV PANIYA"
         },
         {
             "usn": "1BY24EC027",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "ASHMY M A"
         },
         {
             "usn": "1BY24EC028",
@@ -833,15 +916,18 @@
         },
         {
             "usn": "1BY24EC029",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "AYUSH MISHRA"
         },
         {
-            "usn":  "1BY24EC030",
-            "room_alloted": "LAB BLOCK CR-204"
+            "usn": "1BY24EC030",
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "AYUSHMAN SHARMA"
         },
         {
-            "usn":  "1BY24EC031",
-            "room_alloted": "LAB BLOCK CR-204"
+            "usn": "1BY24EC031",
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "B MANAS REDDY"
         },
         {
             "usn": "1BY24EC032",
@@ -861,23 +947,28 @@
         },
         {
             "usn": "1BY24EC037",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "CHINMAY RAVINDRA GOWDA"
         },
         {
             "usn": "1BY24EC038",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "CHIRAG GHOSH"
         },
         {
             "usn": "1BY24EC039",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "DARSHAN K"
         },
         {
             "usn": "1BY24EC040",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "DARSHAN S"
         },
         {
-            "usn":  "1BY24EC041",
-            "room_alloted": "LAB BLOCK CR-204"
+            "usn": "1BY24EC041",
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "DASHAMI C"
         },
         {
             "usn": "1BY24EC042",
@@ -965,7 +1056,8 @@
         },
         {
             "usn": "1BY24EC043",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "DEEPTHI URS M"
         },
         {
             "usn": "1BY24EC044",
@@ -973,11 +1065,13 @@
         },
         {
             "usn": "1BY24EC045",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "DHRUV SWAROOP"
         },
         {
             "usn": "1BY24EC046",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "DHRUV TRIPATHI"
         },
         {
             "usn": "1BY24EC047",
@@ -989,7 +1083,8 @@
         },
         {
             "usn": "1BY24EC049",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "DIVIT SHARMA"
         },
         {
             "usn": "1BY24EC050",
@@ -1001,11 +1096,13 @@
         },
         {
             "usn": "1BY24EC053",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "GURUDATT N"
         },
         {
             "usn": "1BY24EC054",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "H MOUNESH REDDY"
         },
         {
             "usn": "1BY24EC055",
@@ -1013,31 +1110,38 @@
         },
         {
             "usn": "1BY24EC056",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HARSHINI SHANKER"
         },
         {
             "usn": "1BY24EC057",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HARSHIT N M"
         },
         {
             "usn": "1BY24EC058",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HARSHITA S"
         },
         {
             "usn": "1BY24EC059",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HARSHITHA C"
         },
         {
             "usn": "1BY24EC060",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HASINI K V"
         },
         {
             "usn": "1BY24EC061",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HEMANTH S"
         },
         {
             "usn": "1BY24EC062",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HEMASHREE V R"
         },
         {
             "usn": "1BY24EC063",
@@ -1149,8 +1253,7 @@
         },
         {
             "usn": "1TD24CS020",
-            "room_alloted": "BSN CR 302",
-            "name": "CS AMITH S SHEKAR SOMASHEKARA"
+            "room_alloted": "BSN CR 302"
         },
         {
             "usn": "1TD24CS021",
@@ -1186,128 +1289,144 @@
         },
         {
             "usn": "1TD24CS030",
-            "room_alloted": "BSN CR 302",
-            "name": "CS ASHUTOSH TURE ANAND TURE"
+            "room_alloted": "BSN CR 302"
         },
         {
             "usn": "1TD24CS031",
-            "room_alloted": "BSN CR 302",
-            "name": "CS ASHWIKA SHIVANAND"
+            "room_alloted": "BSN CR 302"
         },
         {
             "usn": "1TD24CS032",
-            "room_alloted": "BSN CR 302",
-            "name": "CS ASHWIN REDDY K A ASHWATH REDDY K"
+            "room_alloted": "BSN CR 302"
         },
         {
             "usn": "1TD24CS034",
-            "room_alloted": "BSN CR 302",
-            "name": "CS"
+            "room_alloted": "BSN CR 302"
         },
         {
             "usn": "1TD24CS035",
-            "room_alloted": "BSN CR 302",
-            "name": "CS AVINASH GNYANOBA"
+            "room_alloted": "BSN CR 302"
         },
         {
             "usn": "1BY24CV022",
-            "room_alloted": "BSN CR 302"
+            "room_alloted": "BSN CR 302",
+            "name": "HARSHAVARDHAN N"
         },
         {
             "usn": "1BY24CV023",
-            "room_alloted": "BSN CR 302"
+            "room_alloted": "BSN CR 302",
+            "name": "HARSHAVARDHAN N Y"
         },
         {
             "usn": "1BY24CV024",
-            "room_alloted": "BSN CR 302"
+            "room_alloted": "BSN CR 302",
+            "name": "HARSHITH R"
         },
         {
             "usn": "1BY24CV026",
-            "room_alloted": "BSN CR 302"
+            "room_alloted": "BSN CR 302",
+            "name": "J GANESH"
         },
         {
             "usn": "1BY24CV027",
-            "room_alloted": "BSN CR 302"
+            "room_alloted": "BSN CR 302",
+            "name": "K SHIVAMANI"
         },
         {
             "usn": "1BY24CV029",
-            "room_alloted": "BSN CR 302"
+            "room_alloted": "BSN CR 302",
+            "name": "LALITH KUMAR G"
         },
         {
-            "usn":  "1BY24CV036",
-            "room_alloted": "BSN CR 302"
+            "usn": "1BY24CV036",
+            "room_alloted": "BSN CR 302",
+            "name": "PRAJWAL S"
         },
         {
             "usn": "1BY24CV040",
-            "room_alloted": "BSN CR 302"
+            "room_alloted": "BSN CR 302",
+            "name": "RAM MOHAN B S"
         },
         {
             "usn": "1BY24CV041",
-            "room_alloted": "BSN CR 302"
+            "room_alloted": "BSN CR 302",
+            "name": "RANJAN MYLARA"
         },
         {
-            "usn":  "1BY24CV042",
-            "room_alloted": "BSN CR 302"
+            "usn": "1BY24CV042",
+            "room_alloted": "BSN CR 302",
+            "name": "SAGAR R"
         },
         {
-            "usn":  "1BY24CV054",
-            "room_alloted": "BSN CR 302"
+            "usn": "1BY24CV054",
+            "room_alloted": "BSN CR 302",
+            "name": "THEERTH M SHETTY"
         },
         {
             "usn": "1BY24CV056",
-            "room_alloted": "BSN CR 302"
+            "room_alloted": "BSN CR 302",
+            "name": "VINAY KUMAR BASAVANTHAPPA"
         },
         {
             "usn": "1BY24CV057",
-            "room_alloted": "BSN CR 302"
+            "room_alloted": "BSN CR 302",
+            "name": "VISHAL VINODKUMAR"
         },
         {
-            "usn":  "1BY24CV060",
-            "room_alloted": "BSN CR 302"
+            "usn": "1BY24CV060",
+            "room_alloted": "BSN CR 302",
+            "name": "YASHWANTH J GOWDA"
         },
         {
             "usn": "1BY24EC010",
+            "room_alloted": "BSN CR 302",
+            "name": "ADVAITH R"
+        },
+        {
+            "usn": "1BY24EC021",
             "room_alloted": "BSN CR 302"
         },
         {
-            "usn":  "1BY24EC021",
-            "room_alloted": "BSN CR 302"
-        },
-        {
-            "usn":  "1BY24EC036",
-            "room_alloted": "BSN CR 302"
+            "usn": "1BY24EC036",
+            "room_alloted": "BSN CR 302",
+            "name": "BRIJESH L"
         },
         {
             "usn": "1BY24EC052",
+            "room_alloted": "BSN CR 302",
+            "name": "GAGANDEEP N"
+        },
+        {
+            "usn": "1BY24EC080",
             "room_alloted": "BSN CR 302"
         },
         {
-            "usn":  "1BY24EC080",
-            "room_alloted": "BSN CR 302"
-        },
-        {
-            "usn":  "1BY24EC083",
+            "usn": "1BY24EC083",
             "room_alloted": "BSN CR 302"
         },
         {
             "usn": "1BY24EC145",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "ROHAN PATIL"
         },
         {
             "usn": "1BY24EC146",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "ROHAN SUDHAKARA"
         },
         {
             "usn": "1BY24EC147",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "ROHIT A CHAVAN"
         },
         {
-            "usn":  "1BY24EC148",
+            "usn": "1BY24EC148",
             "room_alloted": "LAB BLOCK CR-302"
         },
         {
             "usn": "1BY24EC149",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "ROHIT NEGI"
         },
         {
             "usn": "1BY24EC150",
@@ -1319,15 +1438,18 @@
         },
         {
             "usn": "1BY24EC152",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "S KALANTHIKA"
         },
         {
             "usn": "1BY24EC153",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "S PAVITHRA"
         },
         {
             "usn": "1BY24EC154",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "S SKANDA SHARMA"
         },
         {
             "usn": "1BY24EC155",
@@ -1335,15 +1457,18 @@
         },
         {
             "usn": "1BY24EC156",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "SAMEER KEDILAYA"
         },
         {
             "usn": "1BY24EC157",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "SAMIKSHA CHAKKI"
         },
         {
             "usn": "1BY24EC158",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "SAMIKSHA MAWANI"
         },
         {
             "usn": "1BY24EC159",
@@ -1355,7 +1480,8 @@
         },
         {
             "usn": "1BY24EC161",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "SANJANA KALLAPPA"
         },
         {
             "usn": "1BY24EC162",
@@ -1363,18 +1489,20 @@
         },
         {
             "usn": "1BY24EC163",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "SAYED SIMNAN GIDDUNAVAR"
         },
         {
             "usn": "1BY24EC164",
-            "room_alloted": "LAB BLOCK CR-302"
+            "room_alloted": "LAB BLOCK CR-302",
+            "name": "SHANE ALAN S"
         },
         {
             "usn": "1TE24CS017",
             "room_alloted": "LAB BLOCK CR-302"
         },
         {
-            "usn":  "1TE24CS018",
+            "usn": "1TE24CS018",
             "room_alloted": "LAB BLOCK CR-302"
         },
         {
@@ -1382,7 +1510,7 @@
             "room_alloted": "LAB BLOCK CR-302"
         },
         {
-            "usn":  "1TE24CS020",
+            "usn": "1TE24CS020",
             "room_alloted": "LAB BLOCK CR-302"
         },
         {
@@ -1430,7 +1558,7 @@
             "room_alloted": "LAB BLOCK CR-302"
         },
         {
-            "usn":  "1TE24CS032",
+            "usn": "1TE24CS032",
             "room_alloted": "LAB BLOCK CR-302"
         },
         {
@@ -1459,8 +1587,7 @@
         },
         {
             "usn": "1TE24CS039",
-            "room_alloted": "LAB CR 303",
-            "name": "CS AMBUJ JHA MKESH KUMAR JHA"
+            "room_alloted": "LAB CR 303"
         },
         {
             "usn": "1TE24CS040",
@@ -1475,7 +1602,7 @@
             "room_alloted": "LAB CR 303"
         },
         {
-            "usn":  "1TE24CS044",
+            "usn": "1TE24CS044",
             "room_alloted": "LAB CR 303"
         },
         {
@@ -1500,8 +1627,7 @@
         },
         {
             "usn": "1TE24CS052",
-            "room_alloted": "LAB CR 303",
-            "name": "CS ANMOL NAMYAN BRAJ KISHORE NARAYAN"
+            "room_alloted": "LAB CR 303"
         },
         {
             "usn": "1TE24CS053",
@@ -1517,8 +1643,7 @@
         },
         {
             "usn": "1TE24CS056",
-            "room_alloted": "LAB CR 303",
-            "name": "CS ANSHUL PAWAR"
+            "room_alloted": "LAB CR 303"
         },
         {
             "usn": "1TE24CS057",
@@ -1530,13 +1655,11 @@
         },
         {
             "usn": "1TE24CS059",
-            "room_alloted": "LAB CR 303",
-            "name": "CS ANUSHA ANAND AMITABH KUMAR"
+            "room_alloted": "LAB CR 303"
         },
         {
             "usn": "1TE24CS060",
-            "room_alloted": "LAB CR 303",
-            "name": "CS APEKSHA DATT RUDRA DATT"
+            "room_alloted": "LAB CR 303"
         },
         {
             "usn": "1TE24CS061",
@@ -1552,7 +1675,8 @@
         },
         {
             "usn": "1BY24EC165",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "SHASHANK P NAIK"
         },
         {
             "usn": "1BY24EC166",
@@ -1560,39 +1684,48 @@
         },
         {
             "usn": "1BY24EC168",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "SHREYA A HANGAL"
         },
         {
             "usn": "1BY24EC169",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "SHUBHAM VISHAL"
         },
         {
             "usn": "1BY24EC170",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "SHWETANK SINHA"
         },
         {
             "usn": "1BY24EC171",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "SHWETHA C"
         },
         {
             "usn": "1BY24EC172",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "SIDDALING BIMDAR"
         },
         {
             "usn": "1BY24EC173",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "SOUMYADEEP MUKHERJEE"
         },
         {
             "usn": "1BY24EC174",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "SRUSHTI K"
         },
         {
             "usn": "1BY24EC175",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "SUNKARA MUNEERA FARHEEN"
         },
         {
             "usn": "1BY24EC176",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "SUSHAN M"
         },
         {
             "usn": "1BY24EC177",
@@ -1600,46 +1733,56 @@
         },
         {
             "usn": "1BY24EC178",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "TANVI SAI VELLA"
         },
         {
-            "usn":  "1BY24EC179",
-            "room_alloted": "LAB CR 303"
+            "usn": "1BY24EC179",
+            "room_alloted": "LAB CR 303",
+            "name": "THANUSHREE B S"
         },
         {
             "usn": "1BY24EC180",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "V NANDA KISHORE"
         },
         {
             "usn": "1BY24EC181",
-            "room_alloted": "LAB CR 303"
+            "room_alloted": "LAB CR 303",
+            "name": "VAISHNAVI B K"
         },
         {
             "usn": "1BY24EE001",
-            "room_alloted": "LAB BLOCK CR-304"
+            "room_alloted": "LAB BLOCK CR-304",
+            "name": "ABHINAV KUMAR PAL"
         },
         {
             "usn": "1BY24EE002",
-            "room_alloted": "LAB BLOCK CR-304"
+            "room_alloted": "LAB BLOCK CR-304",
+            "name": "ABHINAV S"
         },
         {
             "usn": "1BY24EE003",
-            "room_alloted": "LAB BLOCK CR-304"
+            "room_alloted": "LAB BLOCK CR-304",
+            "name": "ABHIRAMA S ADIGA"
         },
         {
             "usn": "1BY24EE004",
-            "room_alloted": "LAB BLOCK CR-304"
+            "room_alloted": "LAB BLOCK CR-304",
+            "name": "ABHYUDAY AKASI"
         },
         {
             "usn": "1BY24EE005",
-            "room_alloted": "LAB BLOCK CR-304"
+            "room_alloted": "LAB BLOCK CR-304",
+            "name": "ADITI MURALIDHAR"
         },
         {
             "usn": "1BY24EE006",
-            "room_alloted": "LAB BLOCK CR-304"
+            "room_alloted": "LAB BLOCK CR-304",
+            "name": "ANANYA S DIWAKAR"
         },
         {
-            "usn":  "1BY24EC182",
+            "usn": "1BY24EC182",
             "room_alloted": "LAB BLOCK CR-304"
         },
         {
@@ -1649,11 +1792,12 @@
         {
             "usn": "1BY24EC184",
             "room_alloted": "LAB BLOCK CR-304",
-            "name": "EC VASAVI BORUKATI RAVI BORUKATI"
+            "name": "VASAVI BORUKATI"
         },
         {
             "usn": "1BY24EC185",
-            "room_alloted": "LAB BLOCK CR-304"
+            "room_alloted": "LAB BLOCK CR-304",
+            "name": "VENKATESH SAHEBGOWDA"
         },
         {
             "usn": "1BY24EC186",
@@ -1661,7 +1805,8 @@
         },
         {
             "usn": "1BY24EC187",
-            "room_alloted": "LAB BLOCK CR-304"
+            "room_alloted": "LAB BLOCK CR-304",
+            "name": "VISHAL G F"
         },
         {
             "usn": "1BY24EC189",
@@ -1673,21 +1818,21 @@
         },
         {
             "usn": "1BY24EC191",
-            "room_alloted": "LAB BLOCK CR-304"
+            "room_alloted": "LAB BLOCK CR-304",
+            "name": "YUKTHA K"
         },
         {
             "usn": "1BY24EC192",
+            "room_alloted": "LAB BLOCK CR-304",
+            "name": "ZAID AHMED KHAN"
+        },
+        {
+            "usn": "1TE24CS065",
             "room_alloted": "LAB BLOCK CR-304"
         },
         {
-            "usn":  "1TE24CS065",
-            "room_alloted": "LAB BLOCK CR-304",
-            "name": "CS ARNAV YADAV KUMAR YADAV"
-        },
-        {
             "usn": "1TE24CS066",
-            "room_alloted": "LAB BLOCK CR-304",
-            "name": "CS ARNIK MAJUMDAR KAUSHIK MAJUMDAR"
+            "room_alloted": "LAB BLOCK CR-304"
         },
         {
             "usn": "1TE24CS067",
@@ -1695,8 +1840,7 @@
         },
         {
             "usn": "1TE24CS068",
-            "room_alloted": "LAB BLOCK CR-304",
-            "name": "CS ARYAMAN SINGH"
+            "room_alloted": "LAB BLOCK CR-304"
         },
         {
             "usn": "1TE24CS069",
@@ -1711,7 +1855,7 @@
             "room_alloted": "LAB BLOCK CR-304"
         },
         {
-            "usn":  "1TE24CS073",
+            "usn": "1TE24CS073",
             "room_alloted": "LAB BLOCK CR-304"
         },
         {
@@ -1719,7 +1863,7 @@
             "room_alloted": "LAB BLOCK CR-304"
         },
         {
-            "usn":  "1TE24CS075",
+            "usn": "1TE24CS075",
             "room_alloted": "LAB BLOCK CR-304"
         },
         {
@@ -1748,8 +1892,7 @@
         },
         {
             "usn": "1TE24CS083",
-            "room_alloted": "LAB BLOCK CR-304",
-            "name": "CS AYIJSHMAN ANAND AJAY KUMAR PANDEY"
+            "room_alloted": "LAB BLOCK CR-304"
         },
         {
             "usn": "1TE24CS084",
@@ -1761,8 +1904,7 @@
         },
         {
             "usn": "1TE24CS086",
-            "room_alloted": "LAB BLOCK CR-304",
-            "name": "CS BANTU BHARATH CHANDM"
+            "room_alloted": "LAB BLOCK CR-304"
         },
         {
             "usn": "1TE24CS088",
@@ -1782,7 +1924,8 @@
         },
         {
             "usn": "1BY24AI143",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "SHANTHALA S"
         },
         {
             "usn": "1BY24AI145",
@@ -1790,7 +1933,8 @@
         },
         {
             "usn": "1BY24AI151",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "SHIVALING ANARUT"
         },
         {
             "usn": "1BY24AI152",
@@ -1798,15 +1942,18 @@
         },
         {
             "usn": "1BY24AI154",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "SHREYA S PATIL"
         },
         {
             "usn": "1BY24AI157",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "SHIVANI D L"
         },
         {
             "usn": "1BY24AI161",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "SINDHU S"
         },
         {
             "usn": "1BY24AI162",
@@ -1814,15 +1961,18 @@
         },
         {
             "usn": "1BY24AI163",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "SOHAN B SABOJI"
         },
         {
             "usn": "1BY24AI164",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "SOUNDARYA R PAI"
         },
         {
             "usn": "1BY24AI168",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "SUDEEP G"
         },
         {
             "usn": "1BY24AI174",
@@ -1830,23 +1980,28 @@
         },
         {
             "usn": "1BY24AI176",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "TEJASWINI N"
         },
         {
             "usn": "1BY24AI177",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "THANUSHREE G B"
         },
         {
             "usn": "1BY24AI180",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "ULLAS V"
         },
         {
             "usn": "1BY24AI181",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "UMAME HAFSA"
         },
         {
             "usn": "1BY24AI183",
-            "room_alloted": "A-124"
+            "room_alloted": "A-124",
+            "name": "VARSHINI S R"
         },
         {
             "usn": "1BY24AI184",
@@ -1982,11 +2137,13 @@
         },
         {
             "usn": "1BY24AI187",
-            "room_alloted": "A-223"
+            "room_alloted": "A-223",
+            "name": "VENKATA SATYA ROHITH"
         },
         {
             "usn": "1BY24AI188",
-            "room_alloted": "A-223"
+            "room_alloted": "A-223",
+            "name": "VENKATA VINUTHNA M"
         },
         {
             "usn": "1BY24AI189",
@@ -1994,7 +2151,8 @@
         },
         {
             "usn": "1BY24AI191",
-            "room_alloted": "A-223"
+            "room_alloted": "A-223",
+            "name": "YISHNU KARANTH"
         },
         {
             "usn": "1BY24CS037",
@@ -2090,11 +2248,13 @@
         },
         {
             "usn": "1TD24AI003",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "MAKARSH ROSHAN SHARMA"
         },
         {
             "usn": "1TD24AI004",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "AARAV VATSH"
         },
         {
             "usn": "1TD24AI006",
@@ -2102,19 +2262,23 @@
         },
         {
             "usn": "1TD24AI011",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "ADIWA ANIL YALAGOOR"
         },
         {
             "usn": "1TD24AI015",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "AISHANI DAS GOSWAMI"
         },
         {
             "usn": "1TD24AI016",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "AISHWARYA HOMBAL"
         },
         {
             "usn": "1TD24AI018",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "AKSHAYA HIREGOUDA"
         },
         {
             "usn": "1TD24AI019",
@@ -2122,11 +2286,13 @@
         },
         {
             "usn": "1TD24AI021",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "ANIKEAT YADAV"
         },
         {
             "usn": "1TD24AI027",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "ARYAN ANAND"
         },
         {
             "usn": "1TD24AI030",
@@ -2134,7 +2300,8 @@
         },
         {
             "usn": "1TD24AI031",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "ASHIKA SHEKAR"
         },
         {
             "usn": "1TD24AI033",
@@ -2234,11 +2401,13 @@
         },
         {
             "usn": "1TD24AI003",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "MAKARSH ROSHAN SHARMA"
         },
         {
             "usn": "1TD24AI004",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "AARAV VATSH"
         },
         {
             "usn": "1TD24AI006",
@@ -2246,19 +2415,23 @@
         },
         {
             "usn": "1TD24AI011",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "ADIWA ANIL YALAGOOR"
         },
         {
             "usn": "1TD24AI015",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "AISHANI DAS GOSWAMI"
         },
         {
             "usn": "1TD24AI016",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "AISHWARYA HOMBAL"
         },
         {
             "usn": "1TD24AI018",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "AKSHAYA HIREGOUDA"
         },
         {
             "usn": "1TD24AI019",
@@ -2266,11 +2439,13 @@
         },
         {
             "usn": "1TD24AI021",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "ANIKEAT YADAV"
         },
         {
             "usn": "1TD24AI027",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "ARYAN ANAND"
         },
         {
             "usn": "1TD24AI030",
@@ -2278,7 +2453,8 @@
         },
         {
             "usn": "1TD24AI031",
-            "room_alloted": "A-224"
+            "room_alloted": "A-224",
+            "name": "ASHIKA SHEKAR"
         },
         {
             "usn": "1TD24AI033",
@@ -2358,15 +2534,18 @@
         },
         {
             "usn": "1TD24AI035",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "ASMI KUMARI"
         },
         {
             "usn": "1TD24AI037",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "AYAANA AHMED"
         },
         {
             "usn": "1TD24AI040",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "AYUSH KUMAR UDAY PRATAP"
         },
         {
             "usn": "1TD24AI042",
@@ -2374,7 +2553,8 @@
         },
         {
             "usn": "1TD24AI045",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "B T NUTAN REDDY"
         },
         {
             "usn": "1TD24AI046",
@@ -2382,7 +2562,8 @@
         },
         {
             "usn": "1TD24AI051",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "BUCHUPALLI DEEPTHI"
         },
         {
             "usn": "1TD24AI059",
@@ -2390,15 +2571,18 @@
         },
         {
             "usn": "1TD24AI061",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "DHEEKSHA N V"
         },
         {
             "usn": "1TD24AI062",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "DHYAN SHANKAR N G"
         },
         {
             "usn": "1TD24AI066",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "G HARISHITHA"
         },
         {
             "usn": "1TD24AI078",
@@ -2406,23 +2590,28 @@
         },
         {
             "usn": "1TD24AI080",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "JIGYASHMAN HAZARIKA"
         },
         {
             "usn": "1TD24AI081",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "K ASRITHA"
         },
         {
             "usn": "1TD24AI083",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "K N HEM SAGAR"
         },
         {
             "usn": "1TD24AI087",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "KASENDULA BHARGAV"
         },
         {
             "usn": "1TD24AI088",
-            "room_alloted": "A-301"
+            "room_alloted": "A-301",
+            "name": "KHALID ELTAYEB"
         },
         {
             "usn": "1TD24AI098",
@@ -2502,23 +2691,28 @@
         },
         {
             "usn": "1TD24AI101",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "MAYANK PRAKASH"
         },
         {
             "usn": "1TD24AI105",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "MITHARE ADITYA SAGAR"
         },
         {
             "usn": "1TD24AI108",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "MOHAMMED ZAID PASHA"
         },
         {
             "usn": "1TD24AI110",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "MR KARTHIK MADHAV"
         },
         {
             "usn": "1TD24AI112",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "NABIHA FATHIMA"
         },
         {
             "usn": "1TD24AI114",
@@ -2530,7 +2724,9 @@
         },
         {
             "usn": "1TD24AI118",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+             "name": "Nikhil Sharma"
+            
         },
         {
             "usn": "1TD24AI119",
@@ -2538,39 +2734,48 @@
         },
         {
             "usn": "1TD24AI122",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "NITHIN J"
         },
         {
             "usn": "1TD24AI130",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "PRANAY P"
         },
         {
             "usn": "1TD24AI131",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "PRARTHYA JAIN"
         },
         {
             "usn": "1TD24AI136",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "PUDUGOSULA SAI PUNITH"
         },
         {
             "usn": "1TD24AI137",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "R KUSUM RAJU"
         },
         {
             "usn": "1TD24AI139",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "SANCHANA C"
         },
         {
             "usn": "1TD24AI142",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "RAJ PATEL"
         },
         {
             "usn": "1TD24AI144",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "RAMA PATEL"
         },
         {
             "usn": "1TD24AI145",
-            "room_alloted": "A-303"
+            "room_alloted": "A-303",
+            "name": "MANJEET SINGH"
         },
         {
             "usn": "1BY24CS093",
@@ -2658,12 +2863,12 @@
         },
         {
             "usn": "1TD24CS063",
-            "room_alloted": "A-304",
-            "name": "CS DEEPIKA B M MAHANTHESHA B S"
+            "room_alloted": "A-304"
         },
         {
             "usn": "1TD24AI152",
-            "room_alloted": "A-304"
+            "room_alloted": "A-304",
+            "name": "RYAN SHARMA"
         },
         {
             "usn": "1TD24AI155",
@@ -2671,15 +2876,18 @@
         },
         {
             "usn": "1TD24AI158",
-            "room_alloted": "A-304"
+            "room_alloted": "A-304",
+            "name": "SAKSHAM KULKARNI"
         },
         {
             "usn": "1TD24AI168",
-            "room_alloted": "A-304"
+            "room_alloted": "A-304",
+            "name": "SISIR RAJ"
         },
         {
             "usn": "1TD24AI170",
-            "room_alloted": "A-304"
+            "room_alloted": "A-304",
+            "name": "SONALI N GOWDA"
         },
         {
             "usn": "1TD24AI172",
@@ -2687,11 +2895,13 @@
         },
         {
             "usn": "1TD24AI173",
-            "room_alloted": "A-304"
+            "room_alloted": "A-304",
+            "name": "kechua kah dost"
         },
         {
             "usn": "1TD24AI177",
-            "room_alloted": "A-304"
+            "room_alloted": "A-304",
+            "name": "SUDEEP SURESH PUJARI"
         },
         {
             "usn": "1TD24AI178",
@@ -2699,11 +2909,13 @@
         },
         {
             "usn": "1TD24AI179",
-            "room_alloted": "A-304"
+            "room_alloted": "A-304",
+            "name": "VAIBHAV DADE"
         },
         {
             "usn": "1TD24AI182",
-            "room_alloted": "A-304"
+            "room_alloted": "A-304",
+            "name": "VARNIKA K R"
         },
         {
             "usn": "1TD24AI187",
@@ -2711,7 +2923,8 @@
         },
         {
             "usn": "1TD24AI189",
-            "room_alloted": "A-304"
+            "room_alloted": "A-304",
+            "name": "VISHAL PRAKASH N"
         },
         {
             "usn": "1TD24AI193",
@@ -2795,8 +3008,7 @@
         },
         {
             "usn": "1TD24CS084",
-            "room_alloted": "A-305",
-            "name": "CS H SHRINIVAS H MAHANTESH"
+            "room_alloted": "A-305"
         },
         {
             "usn": "1TD24CS123",
@@ -2844,8 +3056,7 @@
         },
         {
             "usn": "1TD24CS331",
-            "room_alloted": "A-305",
-            "name": "CS VARSHINI M S"
+            "room_alloted": "A-305"
         },
         {
             "usn": "1TD24CS334",
@@ -2861,8 +3072,7 @@
         },
         {
             "usn": "1TE24CS051",
-            "room_alloted": "A-305",
-            "name": "CS ANKUSH KUMAR KUSHWAHA PANNALAL PRASAD KUSHW"
+            "room_alloted": "A-305"
         },
         {
             "usn": "1BY24CS132",
@@ -3014,23 +3224,28 @@
         },
         {
             "usn": "1BY24AI003",
-            "room_alloted": "A-305/1"
+            "room_alloted": "A-305/1",
+            "name": "ABHISHEK S HEBBAR"
         },
         {
             "usn": "1BY24AI004",
-            "room_alloted": "A-305/1"
+            "room_alloted": "A-305/1",
+            "name": "ADARSH CHIDANAND WALI"
         },
         {
             "usn": "1BY24AI005",
-            "room_alloted": "A-305/1"
+            "room_alloted": "A-305/1",
+            "name": "ADITI SAHOO"
         },
         {
             "usn": "1BY24AI006",
-            "room_alloted": "A-305/1"
+            "room_alloted": "A-305/1",
+            "name": "ADITYA JAMANE"
         },
         {
             "usn": "1BY24AI008",
-            "room_alloted": "A-305/1"
+            "room_alloted": "A-305/1",
+            "name": "ADITYA SHETKAR"
         },
         {
             "usn": "1BY24AI009",
@@ -3038,15 +3253,18 @@
         },
         {
             "usn": "1BY24AI010",
-            "room_alloted": "A-305/1"
+            "room_alloted": "A-305/1",
+            "name": "AKSHAY KUMAR"
         },
         {
             "usn": "1BY24AI011",
-            "room_alloted": "A-305/1"
+            "room_alloted": "A-305/1",
+            "name": "AKUL M PATIL"
         },
         {
             "usn": "1BY24AI014",
-            "room_alloted": "A-305/1"
+            "room_alloted": "A-305/1",
+            "name": "AMRUTESH UDUPA"
         },
         {
             "usn": "1BY24AI016",
@@ -3054,11 +3272,13 @@
         },
         {
             "usn": "1BY24AI018",
-            "room_alloted": "A-305/1"
+            "room_alloted": "A-305/1",
+            "name": "ARYAN R"
         },
         {
             "usn": "1BY24AI021",
-            "room_alloted": "A-305/1"
+            "room_alloted": "A-305/1",
+            "name": "ATHAN SANVI S"
         },
         {
             "usn": "1BY24AI024",
@@ -3110,8 +3330,7 @@
         },
         {
             "usn": "1BY24CS190",
-            "room_alloted": "A-320",
-            "name": "CS P M MANOGNA P M MALAYADRI"
+            "room_alloted": "A-320"
         },
         {
             "usn": "1BY24CS191",
@@ -3139,15 +3358,18 @@
         },
         {
             "usn": "1BY24AI025",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "BASAVAPRASAD MUKTA"
         },
         {
             "usn": "1BY24AI026",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "BHARGAVA KRISHNA G"
         },
         {
             "usn": "1BY24AI028",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "BHIMASHANKAR BAGALI"
         },
         {
             "usn": "1BY24AI029",
@@ -3155,27 +3377,33 @@
         },
         {
             "usn": "1BY24AI030",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "BINDUSAGAR A V"
         },
         {
             "usn": "1BY24AI031",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "C ANILAKUMAR"
         },
         {
             "usn": "1BY24AI032",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "C M MOHAN"
         },
         {
             "usn": "1BY24AI035",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "CHIRAG P"
         },
         {
             "usn": "1BY24AI038",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "DEEPAL JAIN"
         },
         {
             "usn": "1BY24AI039",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "DEVA RAJ J"
         },
         {
             "usn": "1BY24AI042",
@@ -3183,7 +3411,8 @@
         },
         {
             "usn": "1BY24AI043",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "G HRUSHIKESH"
         },
         {
             "usn": "1BY24AI044",
@@ -3195,19 +3424,23 @@
         },
         {
             "usn": "1BY24AI046",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "GOUR CHANDRASHEKHAR"
         },
         {
             "usn": "1BY24AI047",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "DIYA SHETTY"
         },
         {
             "usn": "1BY24AI048",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "GUNDA THARUN TEJ"
         },
         {
             "usn": "1BY24AI054",
-            "room_alloted": "A-320"
+            "room_alloted": "A-320",
+            "name": "HITHESH M"
         },
         {
             "usn": "1BY24CS256",
@@ -3287,15 +3520,18 @@
         },
         {
             "usn": "1BY24AI159",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "SINCHANA ANIL KUMAR"
         },
         {
             "usn": "1BY24AI160",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "SINCHANA C E"
         },
         {
             "usn": "1BY24AI165",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "SPANDANA M KORI"
         },
         {
             "usn": "1BY24AI166",
@@ -3303,11 +3539,13 @@
         },
         {
             "usn": "1BY24AI167",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "SNEHA MUDGAL"
         },
         {
             "usn": "1BY24AI169",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "SUJAN SHETTY"
         },
         {
             "usn": "1BY24AI170",
@@ -3315,11 +3553,13 @@
         },
         {
             "usn": "1BY24AI171",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "SUSHMA M"
         },
         {
             "usn": "1BY24AI172",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "SUSHMA VIDYASAGAR"
         },
         {
             "usn": "1BY24AI173",
@@ -3327,23 +3567,28 @@
         },
         {
             "usn": "1BY24AI175",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "TEJAS S"
         },
         {
             "usn": "1BY24AI178",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "TUSHAR ISHWAR KUBAL"
         },
         {
             "usn": "1BY24AI182",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "V SATHYA SAI"
         },
         {
             "usn": "1BY24AI190",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "VIPPARLA SRISUDARSHAN"
         },
         {
             "usn": "1BY24AI192",
-            "room_alloted": "A-424"
+            "room_alloted": "A-424",
+            "name": "VISHNU M"
         },
         {
             "usn": "1BY24AI193",
@@ -3439,79 +3684,98 @@
         },
         {
             "usn": "1BY24CB001",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "ADITHYA S NAYAK"
         },
         {
             "usn": "1BY24CB002",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "AKHILESH BHADBHADE"
         },
         {
             "usn": "1BY24CB003",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "AMAN HARIKESH"
         },
         {
             "usn": "1BY24CB004",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "ANIRUDH S KASHYAP"
         },
         {
             "usn": "1BY24CB005",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "ANJINI BOSE"
         },
         {
             "usn": "1BY24CB006",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "AYUSH KUMAR"
         },
         {
             "usn": "1BY24CB007",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "B AMITH VIKRAM"
         },
         {
             "usn": "1BY24CB008",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "CHIRAG RAMESH ACHARYA"
         },
         {
             "usn": "1BY24CB009",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "DHEERAJ K"
         },
         {
             "usn": "1BY24CB010",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "DHIMAHI RAI"
         },
         {
             "usn": "1BY24CB011",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "DIMPLE S GOWDA"
         },
         {
             "usn": "1BY24CB012",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "FAIZAN SUBHAN"
         },
         {
             "usn": "1BY24CB013",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "GARGI SHARMA"
         },
         {
             "usn": "1BY24CB014",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "HARSH JHA"
         },
         {
             "usn": "1BY24CB015",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "HIMANSHU KAUSHIK"
         },
         {
             "usn": "1BY24CB016",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "NI RAO BHARATH KUMAR"
         },
         {
             "usn": "1BY24CB017",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "JAKIRHUSSAIN SHEKSHAVALI"
         },
         {
             "usn": "1BY24CB018",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "KISHAN V S"
         },
         {
             "usn": "1BY24CB019",
-            "room_alloted": "BSN CR-101"
+            "room_alloted": "BSN CR-101",
+            "name": "KSHITIZ KHANDELWAL"
         },
         {
             "usn": "1BY24CS298",
@@ -3595,88 +3859,107 @@
         },
         {
             "usn": "1BY24CB020",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "LAKSHMI J SHASTRY"
         },
         {
             "usn": "1BY24CB021",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "M SURYA U"
         },
         {
             "usn": "1BY24CB022",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "MADHAN KUMAR K"
         },
         {
             "usn": "1BY24CB023",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "MAHESH KASHYAP"
         },
         {
             "usn": "1BY24CB024",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "MEGHANA H S"
         },
         {
             "usn": "1BY24CB025",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "NIHAR GOVIND"
         },
         {
             "usn": "1BY24CB026",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "MOHAMMAD KAIF"
         },
         {
             "usn": "1BY24CB027",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "MOHAMMAD UMAIR FAIYAZ"
         },
         {
             "usn": "1BY24CB028",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "MONISH SRI RAMA SAI"
         },
         {
             "usn": "1BY24CB029",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "MUSKAN SINGH"
         },
         {
             "usn": "1BY24CB030",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "NAAMTHA C N"
         },
         {
             "usn": "1BY24CB031",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "NANDI R"
         },
         {
             "usn": "1BY24CB032",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "NEHA ANANDKUMAR"
         },
         {
             "usn": "1BY24CB033",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "NIMNTH ARVIND"
         },
         {
             "usn": "1BY24CB034",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "PAVAN KUMAR S R"
         },
         {
             "usn": "1BY24CB035",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "PIYUSH RAJ"
         },
         {
             "usn": "1BY24CB036",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "PRAJAPATI RUDRA"
         },
         {
             "usn": "1BY24CB037",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "PRAJWAL V H"
         },
         {
             "usn": "1BY24CB038",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "PRATIKSHA P SATTIGERI"
         },
         {
             "usn": "1BY24CB039",
-            "room_alloted": "BSN CR-102"
+            "room_alloted": "BSN CR-102",
+            "name": "PREM RAJ"
         },
         {
             "usn": "1TD24CS036",
-            "room_alloted": "BSN CR-303",
-            "name": "CS AYUSH R RAVI G"
+            "room_alloted": "BSN CR-303"
         },
         {
             "usn": "1TD24CS037",
@@ -3684,8 +3967,7 @@
         },
         {
             "usn": "1TD24CS038",
-            "room_alloted": "BSN CR-303",
-            "name": "CS B G VIVEK CHINNAPRAPPA"
+            "room_alloted": "BSN CR-303"
         },
         {
             "usn": "1TD24CS039",
@@ -3749,17 +4031,16 @@
         },
         {
             "usn": "1TD24CS055",
-            "room_alloted": "BSN CR-303",
-            "name": "CS CHETAN A M MNJUNATH A M"
+            "room_alloted": "BSN CR-303"
         },
         {
             "usn": "1TD24CS056",
-            "room_alloted": "BSN CR-303",
-            "name": "CS CHETHAN B C CHOWDA REDDY B S"
+            "room_alloted": "BSN CR-303"
         },
         {
             "usn": "1BY24EC116",
-            "room_alloted": "BSN CR-303"
+            "room_alloted": "BSN CR-303",
+            "name": "NITEESH GOWDA"
         },
         {
             "usn": "1BY24EC122",
@@ -3771,15 +4052,18 @@
         },
         {
             "usn": "1BY24EC188",
-            "room_alloted": "BSN CR-303"
+            "room_alloted": "BSN CR-303",
+            "name": "VISHRUTH N"
         },
         {
             "usn": "1TD24AI001",
-            "room_alloted": "BSN CR-303"
+            "room_alloted": "BSN CR-303",
+            "name": "AADIWA SINGH"
         },
         {
             "usn": "1TD24AI005",
-            "room_alloted": "BSN CR-303"
+            "room_alloted": "BSN CR-303",
+            "name": "ABHAY R"
         },
         {
             "usn": "1TD24AI007",
@@ -3787,7 +4071,8 @@
         },
         {
             "usn": "1TD24AI008",
-            "room_alloted": "BSN CR-303"
+            "room_alloted": "BSN CR-303",
+            "name": "ADARSH NAIK"
         },
         {
             "usn": "1TD24AI009",
@@ -3807,11 +4092,13 @@
         },
         {
             "usn": "1TD24AI014",
-            "room_alloted": "BSN CR-303"
+            "room_alloted": "BSN CR-303",
+            "name": "ADITYA KUMAR SINGH"
         },
         {
             "usn": "1TD24AI017",
-            "room_alloted": "BSN CR-303"
+            "room_alloted": "BSN CR-303",
+            "name": "AKANKSHA KUMARI"
         },
         {
             "usn": "1TD24AI020",
@@ -3819,7 +4106,8 @@
         },
         {
             "usn": "1TD24AI022",
-            "room_alloted": "BSN CR-303"
+            "room_alloted": "BSN CR-303",
+            "name": "ANKUR PRATIK"
         },
         {
             "usn": "1TD24AI023",
@@ -3827,7 +4115,8 @@
         },
         {
             "usn": "1TD24AI024",
-            "room_alloted": "BSN CR-303"
+            "room_alloted": "BSN CR-303",
+            "name": "ANUBHAV NARESH KUMAR"
         },
         {
             "usn": "1TD24AI025",
@@ -3843,18 +4132,15 @@
         },
         {
             "usn": "1TD24CS058",
-            "room_alloted": "BSN CR-304",
-            "name": "CS CHIRAG V A ASHOK A V"
+            "room_alloted": "BSN CR-304"
         },
         {
             "usn": "1TD24CS059",
-            "room_alloted": "BSN CR-304",
-            "name": "CS CHIRANTHAN R RAMACHANDRA V"
+            "room_alloted": "BSN CR-304"
         },
         {
             "usn": "1TD24CS060",
-            "room_alloted": "BSN CR-304",
-            "name": "CS DARSHINI P PAVAN KUMAR R N"
+            "room_alloted": "BSN CR-304"
         },
         {
             "usn": "1TD24CS061",
@@ -3870,8 +4156,7 @@
         },
         {
             "usn": "1TD24CS065",
-            "room_alloted": "BSN CR-304",
-            "name": "CS DEEPTHI N NAMSIMHAMURTHY B N"
+            "room_alloted": "BSN CR-304"
         },
         {
             "usn": "1TD24CS066",
@@ -3883,13 +4168,11 @@
         },
         {
             "usn": "1TD24CS068",
-            "room_alloted": "BSN CR-304",
-            "name": "CS DISHA S H SURESH"
+            "room_alloted": "BSN CR-304"
         },
         {
             "usn": "1TD24CS069",
-            "room_alloted": "BSN CR-304",
-            "name": "CS DIVYA S SHIVANANDA A"
+            "room_alloted": "BSN CR-304"
         },
         {
             "usn": "1TD24CS070",
@@ -3929,27 +4212,33 @@
         },
         {
             "usn": "1TD24AI029",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "ARYAN PRASAD DAS"
         },
         {
             "usn": "1TD24AI032",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "ASHWIN AIYAPPA K B"
         },
         {
             "usn": "1TD24AI034",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "ASHWINI KALLESH"
         },
         {
             "usn": "1TD24AI036",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "ATUL DHULL"
         },
         {
             "usn": "1TD24AI038",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "AYUSH KUMAR"
         },
         {
             "usn": "1TD24AI039",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "AYUSH KUMAR"
         },
         {
             "usn": "1TD24AI041",
@@ -3957,7 +4246,8 @@
         },
         {
             "usn": "1TD24AI043",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "B C YASHAS RAJ"
         },
         {
             "usn": "1TD24AI047",
@@ -3973,7 +4263,8 @@
         },
         {
             "usn": "1TD24AI050",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "BISHAL SHAH"
         },
         {
             "usn": "1TD24AI052",
@@ -3985,7 +4276,8 @@
         },
         {
             "usn": "1TD24AI054",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "CHARVI G"
         },
         {
             "usn": "1TD24AI055",
@@ -3993,15 +4285,18 @@
         },
         {
             "usn": "1TD24AI057",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "D LALITH CHANDRA"
         },
         {
             "usn": "1TD24AI058",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "DEEPAK KUMAR"
         },
         {
             "usn": "1TD24AI060",
-            "room_alloted": "BSN CR-304"
+            "room_alloted": "BSN CR-304",
+            "name": "DHARANI KRISHNA SAHITHI"
         },
         {
             "usn": "1TD24CS079",
@@ -4009,18 +4304,15 @@
         },
         {
             "usn": "1TD24CS080",
-            "room_alloted": "BSN CR-404",
-            "name": "CS GIREESH G B BASAVARAJ G"
+            "room_alloted": "BSN CR-404"
         },
         {
             "usn": "1TD24CS081",
-            "room_alloted": "BSN CR-404",
-            "name": "CS GOWTHAM K M K N MUNIMJAPPA"
+            "room_alloted": "BSN CR-404"
         },
         {
             "usn": "1TD24CS082",
-            "room_alloted": "BSN CR-404",
-            "name": "CS GUNJAN SHARMA"
+            "room_alloted": "BSN CR-404"
         },
         {
             "usn": "1TD24CS083",
@@ -4040,13 +4332,11 @@
         },
         {
             "usn": "1TD24CS089",
-            "room_alloted": "BSN CR-404",
-            "name": "CS HARSHA B M"
+            "room_alloted": "BSN CR-404"
         },
         {
             "usn": "1TD24CS090",
-            "room_alloted": "BSN CR-404",
-            "name": "CS HARSHITHA M"
+            "room_alloted": "BSN CR-404"
         },
         {
             "usn": "1TD24CS091",
@@ -4058,8 +4348,7 @@
         },
         {
             "usn": "1TD24CS093",
-            "room_alloted": "BSN CR-404",
-            "name": "CS HEMANT SAMLAYA VENKATESH SAMI"
+            "room_alloted": "BSN CR-404"
         },
         {
             "usn": "1TD24CS094",
@@ -4067,8 +4356,7 @@
         },
         {
             "usn": "1TD24CS095",
-            "room_alloted": "BSN CR-404",
-            "name": "CS HRUTHVIK V VIJAYA KUMAR"
+            "room_alloted": "BSN CR-404"
         },
         {
             "usn": "1TD24CS096",
@@ -4080,8 +4368,7 @@
         },
         {
             "usn": "1TD24CS098",
-            "room_alloted": "BSN CR-404",
-            "name": "CS ISHANTH GOWDA J M"
+            "room_alloted": "BSN CR-404"
         },
         {
             "usn": "1TD24CS099",
@@ -4097,10 +4384,11 @@
         },
         {
             "usn": "1TD24AI064",
-            "room_alloted": "BSN CR-404"
+            "room_alloted": "BSN CR-404",
+            "name": "DIVYE GAUTAM"
         },
         {
-            "usn":  "1TD24AI065",
+            "usn": "1TD24AI065",
             "room_alloted": "BSN CR-404"
         },
         {
@@ -4121,23 +4409,28 @@
         },
         {
             "usn": "1TD24AI071",
-            "room_alloted": "BSN CR-404"
+            "room_alloted": "BSN CR-404",
+            "name": "GOVIND SATYA VEER SINGH"
         },
         {
             "usn": "1TD24AI072",
-            "room_alloted": "BSN CR-404"
+            "room_alloted": "BSN CR-404",
+            "name": "GURRAM DHAKSHAYANI"
         },
         {
             "usn": "1TD24AI074",
-            "room_alloted": "BSN CR-404"
+            "room_alloted": "BSN CR-404",
+            "name": "HIMANSHU JAISWAL"
         },
         {
             "usn": "1TD24AI076",
-            "room_alloted": "BSN CR-404"
+            "room_alloted": "BSN CR-404",
+            "name": "HITESH M"
         },
         {
             "usn": "1TD24AI077",
-            "room_alloted": "BSN CR-404"
+            "room_alloted": "BSN CR-404",
+            "name": "NAMALA RESHMANTH RAJU"
         },
         {
             "usn": "1TD24AI079",
@@ -4153,7 +4446,8 @@
         },
         {
             "usn": "1TD24AI085",
-            "room_alloted": "BSN CR-404"
+            "room_alloted": "BSN CR-404",
+            "name": "K MALESH D M"
         },
         {
             "usn": "1TD24AI089",
@@ -4169,7 +4463,8 @@
         },
         {
             "usn": "1TD24AI092",
-            "room_alloted": "BSN CR-404"
+            "room_alloted": "BSN CR-404",
+            "name": "KULDEEP SINH JADEJA"
         },
         {
             "usn": "1TD24CS101",
@@ -4253,7 +4548,8 @@
         },
         {
             "usn": "1TD24AI093",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "KUMAR HARSH"
         },
         {
             "usn": "1TD24AI095",
@@ -4261,7 +4557,8 @@
         },
         {
             "usn": "1TD24AI096",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "LUCKY DHAWAN"
         },
         {
             "usn": "1TD24AI097",
@@ -4269,15 +4566,18 @@
         },
         {
             "usn": "1TD24AI100",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "MANYA SAHGAL"
         },
         {
             "usn": "1TD24AI102",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "MEDHA G S"
         },
         {
             "usn": "1TD24AI103",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "JAEDHA S HARISH"
         },
         {
             "usn": "1TD24AI104",
@@ -4285,20 +4585,22 @@
         },
         {
             "usn": "1TD24AI106",
-            "room_alloted": "BSN CR-503",
-            "name": "A"
+            "room_alloted": "BSN CR-503"
         },
         {
             "usn": "1TD24AI107",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "MOHAMMED ARHAM"
         },
         {
             "usn": "1TD24AI111",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "N SHREYAS ADITHYA"
         },
         {
             "usn": "1TD24AI113",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "NAGA MOKSHA K R"
         },
         {
             "usn": "1TD24AI116",
@@ -4306,19 +4608,23 @@
         },
         {
             "usn": "1TD24AI117",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "NIDHI DWIVEDI"
         },
         {
             "usn": "1TD24AI121",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "NITHIN GOWDA"
         },
         {
             "usn": "1TD24AI125",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "PEDDIREDDY NAVADEEP REDDY"
         },
         {
             "usn": "1TD24AI126",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "PUNUMA CHANDRA KRISHNA"
         },
         {
             "usn": "1TD24AI127",
@@ -4326,7 +4632,8 @@
         },
         {
             "usn": "1TD24AI129",
-            "room_alloted": "BSN CR-503"
+            "room_alloted": "BSN CR-503",
+            "name": "PRANAV UTHAPPA"
         },
         {
             "usn": "1TD24AI132",
@@ -4418,7 +4725,8 @@
         },
         {
             "usn": "1TD24AI134",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "PRINCE KUMAR"
         },
         {
             "usn": "1TD24AI135",
@@ -4426,12 +4734,13 @@
         },
         {
             "usn": "1TD24AI138",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "RABINDRA CHAUDHARY"
         },
         {
             "usn": "1TD24AI140",
             "room_alloted": "BSN CR-504",
-            "name": "A MGHAV SHUKLA RAMAKANT SHUKLA"
+            "name": "SACHIN SHUKLA"
         },
         {
             "usn": "1TD24AI141",
@@ -4443,31 +4752,38 @@
         },
         {
             "usn": "1TD24AI146",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "MUNAK RAJ"
         },
         {
             "usn": "1TD24AI147",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "REDDY MAHESH GOUD"
         },
         {
             "usn": "1TD24AI148",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "RISHIKESH V REDDY"
         },
         {
             "usn": "1TD24AI149",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "RITHVIK KOLIYOT"
         },
         {
             "usn": "1TD24AI150",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "RITIKA GIRISH KULKARNI"
         },
         {
             "usn": "1TD24AI151",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "ROHAN SUDEESH CHALAKUZHI"
         },
         {
             "usn": "1TD24AI153",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "S MOURYA ROOPESH REDDY"
         },
         {
             "usn": "1TD24AI154",
@@ -4476,15 +4792,17 @@
         {
             "usn": "1TD24AI156",
             "room_alloted": "BSN CR-504",
-            "name": "A SAHID AI"
+            "name": "SAHID ALAM"
         },
         {
             "usn": "1TD24AI159",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "SANIVARAPU VENKATA MANOJ"
         },
         {
             "usn": "1TD24AI160",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "SARTHAK J"
         },
         {
             "usn": "1TD24AI161",
@@ -4492,7 +4810,8 @@
         },
         {
             "usn": "1TD24AI162",
-            "room_alloted": "BSN CR-504"
+            "room_alloted": "BSN CR-504",
+            "name": "SATYAJIT KUMAR"
         },
         {
             "usn": "1TD24CS144",
@@ -4584,11 +4903,13 @@
         },
         {
             "usn": "1TD24AI163",
-            "room_alloted": "BSN TR-502"
+            "room_alloted": "BSN TR-502",
+            "name": "SEETHA SUMEDH"
         },
         {
             "usn": "1TD24AI164",
-            "room_alloted": "BSN TR-502"
+            "room_alloted": "BSN TR-502",
+            "name": "SETTY PALLE ROHAN KUMAR"
         },
         {
             "usn": "1TD24AI165",
@@ -4600,7 +4921,8 @@
         },
         {
             "usn": "1TD24AI167",
-            "room_alloted": "BSN TR-502"
+            "room_alloted": "BSN TR-502",
+            "name": "SIDDHI BATM"
         },
         {
             "usn": "1TD24AI169",
@@ -4612,11 +4934,13 @@
         },
         {
             "usn": "1TD24AI174",
-            "room_alloted": "BSN TR-502"
+            "room_alloted": "BSN TR-502",
+            "name": "SURABHI PANDURANGI"
         },
         {
             "usn": "1TD24AI176",
-            "room_alloted": "BSN TR-502"
+            "room_alloted": "BSN TR-502",
+            "name": "SWATI AGARWAL"
         },
         {
             "usn": "1TD24AI180",
@@ -4628,11 +4952,13 @@
         },
         {
             "usn": "1TD24AI184",
-            "room_alloted": "BSN TR-502"
+            "room_alloted": "BSN TR-502",
+            "name": "VARSHAVIDHAN R"
         },
         {
             "usn": "1TD24AI185",
-            "room_alloted": "BSN TR-502"
+            "room_alloted": "BSN TR-502",
+            "name": "VARSHINI K S"
         },
         {
             "usn": "1TD24AI186",
@@ -4640,7 +4966,8 @@
         },
         {
             "usn": "1TD24AI190",
-            "room_alloted": "BSN TR-502"
+            "room_alloted": "BSN TR-502",
+            "name": "VIVEK SHARMA"
         },
         {
             "usn": "1TD24AI191",
@@ -4648,11 +4975,13 @@
         },
         {
             "usn": "1TD24AI192",
-            "room_alloted": "BSN TR-502"
+            "room_alloted": "BSN TR-502",
+            "name": "TENNAM LOURDU KOUSHIK REDDY"
         },
         {
             "usn": "1TD24AI194",
-            "room_alloted": "BSN TR-502"
+            "room_alloted": "BSN TR-502",
+            "name": "YUVRAJ RAUNIYAR"
         },
         {
             "usn": "1BY22EE019",
@@ -4660,59 +4989,73 @@
         },
         {
             "usn": "1BY24CV001",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "ABHISHEK BASAGONDA"
         },
         {
             "usn": "1BY24CV003",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "AKSHAYA M"
         },
         {
             "usn": "1BY24CV004",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "ANAGH MANIVARNAN"
         },
         {
             "usn": "1BY24CV005",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "ANKIT KUMAR"
         },
         {
-            "usn":  "1BY24CV006",
-            "room_alloted": "LAB BLOCK CR-201"
+            "usn": "1BY24CV006",
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "ASHANK ADITHYA"
         },
         {
             "usn": "1BY24CV007",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "ASHRAM PANDEY"
         },
         {
             "usn": "1BY24CV008",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "BALAJI P"
         },
         {
             "usn": "1BY24CV011",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "BOGATHI HARSHITHA REDDY"
         },
         {
             "usn": "1BY24CV016",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "DEEPA G D"
         },
         {
             "usn": "1BY24CV017",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "DEV PRAKASH CHINMAY K"
         },
         {
             "usn": "1BY24CV018",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "DHANUSH GOWDA N"
         },
         {
             "usn": "1BY24CV019",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "GAGANDEEP R HEGGADE"
         },
         {
             "usn": "1BY24CV020",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "GOLLAPALLI HARSHA VARDHAN REDDY"
         },
         {
             "usn": "1BY24CV021",
-            "room_alloted": "LAB BLOCK CR-201"
+            "room_alloted": "LAB BLOCK CR-201",
+            "name": "HADYA N"
         },
         {
             "usn": "1TD24CS167",
@@ -4803,7 +5146,7 @@
             "room_alloted": "LAB BLOCK CR-201"
         },
         {
-            "usn":  "1TE24CS048",
+            "usn": "1TE24CS048",
             "room_alloted": "LAB BLOCK CR-201"
         },
         {
@@ -4816,83 +5159,103 @@
         },
         {
             "usn": "1BY24CV025",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "SHAMAN RAJ"
         },
         {
             "usn": "1BY24CV028",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "L R PAKRUTHI"
         },
         {
             "usn": "1BY24CV030",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "M GAUTHAM GOWDA"
         },
         {
             "usn": "1BY24CV031",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "MAADIHA IRAM"
         },
         {
             "usn": "1BY24CV034",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "NIKHATH FATHIMA"
         },
         {
             "usn": "1BY24CV035",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "PAVITHRA E T"
         },
         {
             "usn": "1BY24CV037",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "PRERANA H G"
         },
         {
             "usn": "1BY24CV038",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "PRIYANSHU KARMAKAR"
         },
         {
             "usn": "1BY24CV039",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "RAKSHITHA M S"
         },
         {
             "usn": "1BY24CV043",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "SANJANA H"
         },
         {
             "usn": "1BY24CV045",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "SHAILESH M"
         },
         {
             "usn": "1BY24CV046",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "SHIKTA ROY"
         },
         {
             "usn": "1BY24CV047",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "SHREYA N SALANKE"
         },
         {
             "usn": "1BY24CV049",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "SIMRAN SINGH"
         },
         {
             "usn": "1BY24CV050",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "SOUJANYA S"
         },
         {
             "usn": "1BY24CV051",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "SOUMYA N"
         },
         {
             "usn": "1BY24CV052",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "SRI MANISHA RAMISETTY"
         },
         {
             "usn": "1BY24CV053",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "TANMAY AKASH"
         },
         {
             "usn": "1BY24CV055",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "VIHAN KUNDARGI"
         },
         {
             "usn": "1BY24CV058",
-            "room_alloted": "LAB BLOCK CR-202"
+            "room_alloted": "LAB BLOCK CR-202",
+            "name": "VISHRUTHA G K"
         },
         {
             "usn": "1TD24CS190",
@@ -4932,8 +5295,7 @@
         },
         {
             "usn": "1TD24CS200",
-            "room_alloted": "LAB BLOCK CR-202",
-            "name": "CS POOJIT SRIRAM SRIRAAA G"
+            "room_alloted": "LAB BLOCK CR-202"
         },
         {
             "usn": "1TD24CS201",
@@ -4976,20 +5338,24 @@
             "room_alloted": "LAB BLOCK CR-202"
         },
         {
-            "usn":  "1BY24CV059",
-            "room_alloted": "LAB BLOCK CR-203"
+            "usn": "1BY24CV059",
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "YASHWANTH GOWDA"
         },
         {
             "usn": "1BY24EC001",
-            "room_alloted": "LAB BLOCK CR-203"
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "A NISHANTH"
         },
         {
-            "usn":  "1BY24EC002",
-            "room_alloted": "LAB BLOCK CR-203"
+            "usn": "1BY24EC002",
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "ABHAY KRISHNA B"
         },
         {
-            "usn":  "1BY24EC003",
-            "room_alloted": "LAB BLOCK CR-203"
+            "usn": "1BY24EC003",
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "ABHINAV SURESH"
         },
         {
             "usn": "1BY24EC004",
@@ -4997,47 +5363,57 @@
         },
         {
             "usn": "1BY24EC005",
-            "room_alloted": "LAB BLOCK CR-203"
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "ACHINTH HEBBAR"
         },
         {
-            "usn":  "1BY24EC006",
-            "room_alloted": "LAB BLOCK CR-203"
+            "usn": "1BY24EC006",
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "ADARSH KUMAR"
         },
         {
             "usn": "1BY24EC007",
-            "room_alloted": "LAB BLOCK CR-203"
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "ADITHYA S P"
         },
         {
             "usn": "1BY24EC008",
-            "room_alloted": "LAB BLOCK CR-203"
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "ADITYA GUPTA"
         },
         {
-            "usn":  "1BY24EC009",
+            "usn": "1BY24EC009",
             "room_alloted": "LAB BLOCK CR-203"
         },
         {
             "usn": "1BY24EC011",
-            "room_alloted": "LAB BLOCK CR-203"
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "AJAY GOWDA"
         },
         {
             "usn": "1BY24EC012",
-            "room_alloted": "LAB BLOCK CR-203"
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "AKANKSHA S"
         },
         {
             "usn": "1BY24EC013",
-            "room_alloted": "LAB BLOCK CR-203"
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "AMNSHA KUMARI"
         },
         {
-            "usn":  "1BY24EC014",
-            "room_alloted": "LAB BLOCK CR-203"
+            "usn": "1BY24EC014",
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "AKASH GORAIN"
         },
         {
             "usn": "1BY24EC015",
-            "room_alloted": "LAB BLOCK CR-203"
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "AMIRISETTY VENKATA MOUNISH"
         },
         {
             "usn": "1BY24EC016",
-            "room_alloted": "LAB BLOCK CR-203"
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "AMSHUMAAN R"
         },
         {
             "usn": "1BY24EC017",
@@ -5049,7 +5425,8 @@
         },
         {
             "usn": "1BY24EC019",
-            "room_alloted": "LAB BLOCK CR-203"
+            "room_alloted": "LAB BLOCK CR-203",
+            "name": "ANKITHA SAIPRIYA"
         },
         {
             "usn": "1BY24EC020",
@@ -5137,15 +5514,18 @@
         },
         {
             "usn": "1BY24EC081",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "LALITADITYA M V"
         },
         {
             "usn": "1BY24EC082",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "LAXMINARAYAN ILLUR"
         },
         {
             "usn": "1BY24EC084",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "M S SITHANSH"
         },
         {
             "usn": "1BY24EC085",
@@ -5157,7 +5537,8 @@
         },
         {
             "usn": "1BY24EC087",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "MAKARLA RANVITHA"
         },
         {
             "usn": "1BY24EC088",
@@ -5173,15 +5554,18 @@
         },
         {
             "usn": "1BY24EC091",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "MANYA U K"
         },
         {
             "usn": "1BY24EC092",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "MAYUR S"
         },
         {
             "usn": "1BY24EC093",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "MEHAL BHAGAT"
         },
         {
             "usn": "1BY24EC094",
@@ -5189,19 +5573,23 @@
         },
         {
             "usn": "1BY24EC095",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "MITHUN KUMAR V"
         },
         {
             "usn": "1BY24EC096",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "MOHAMMED ZAHID SHARIFF"
         },
         {
             "usn": "1BY24EC097",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "MOHITH K"
         },
         {
             "usn": "1BY24EC098",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "MUPPURI VENKATA NAGA KASI SAI"
         },
         {
             "usn": "1BY24EC099",
@@ -5209,7 +5597,8 @@
         },
         {
             "usn": "1BY24EC100",
-            "room_alloted": "LAB BLOCK TR-208"
+            "room_alloted": "LAB BLOCK TR-208",
+            "name": "N SUHAS P"
         },
         {
             "usn": "1BY24EC101",
@@ -5217,8 +5606,7 @@
         },
         {
             "usn": "1TD24CS301",
-            "room_alloted": "LAB BLOCK TR-208",
-            "name": "CS SUNDER GANDHI NINGAPPA GANDHI NINGAPPA"
+            "room_alloted": "LAB BLOCK TR-208"
         },
         {
             "usn": "1TD24CS302",
@@ -5226,8 +5614,7 @@
         },
         {
             "usn": "1TD24CS303",
-            "room_alloted": "LAB BLOCK TR-208",
-            "name": "CS SUSHANT SINGH KANDARI AMIT KANDARI"
+            "room_alloted": "LAB BLOCK TR-208"
         },
         {
             "usn": "1TD24CS304",
@@ -5239,23 +5626,19 @@
         },
         {
             "usn": "1TD24CS306",
-            "room_alloted": "LAB BLOCK TR-208",
-            "name": "CS SUSHMA GOUDA SHIVASHANKAM GOUDA G"
+            "room_alloted": "LAB BLOCK TR-208"
         },
         {
             "usn": "1TD24CS307",
-            "room_alloted": "LAB BLOCK TR-208",
-            "name": "CS SUSHRUTH KUMAR M B BHASKAR KUMAR M S"
+            "room_alloted": "LAB BLOCK TR-208"
         },
         {
             "usn": "1TD24CS308",
-            "room_alloted": "LAB BLOCK TR-208",
-            "name": "CS SWAROOP PATIL SHAMNAGOUDA PATIL"
+            "room_alloted": "LAB BLOCK TR-208"
         },
         {
             "usn": "1TD24CS309",
-            "room_alloted": "LAB BLOCK TR-208",
-            "name": "CS SWATHI DINESH BHAT DINESH"
+            "room_alloted": "LAB BLOCK TR-208"
         },
         {
             "usn": "1TD24CS310",
@@ -5295,8 +5678,7 @@
         },
         {
             "usn": "1TD24CS320",
-            "room_alloted": "LAB BLOCK TR-208",
-            "name": "CS"
+            "room_alloted": "LAB BLOCK TR-208"
         },
         {
             "usn": "1TD24CS321",
@@ -5304,7 +5686,8 @@
         },
         {
             "usn": "1BY24EC102",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "NAMAN BASAVAMJ"
         },
         {
             "usn": "1BY24EC103",
@@ -5312,11 +5695,13 @@
         },
         {
             "usn": "1BY24EC104",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "NAVANEETH Y V"
         },
         {
             "usn": "1BY24EC105",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "NAVNEET ARUN"
         },
         {
             "usn": "1BY24EC106",
@@ -5328,19 +5713,23 @@
         },
         {
             "usn": "1BY24EC108",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "NEERAJ M S"
         },
         {
             "usn": "1BY24EC109",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "NEHA K"
         },
         {
             "usn": "1BY24EC110",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "NIHAL S PATWARDHAN"
         },
         {
             "usn": "1BY24EC111",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "NIHARIKA MYDUKUR"
         },
         {
             "usn": "1BY24EC112",
@@ -5348,11 +5737,13 @@
         },
         {
             "usn": "1BY24EC113",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "NIKHIL NEELAPPA KOPPA"
         },
         {
             "usn": "1BY24EC114",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "NISARGA H"
         },
         {
             "usn": "1BY24EC115",
@@ -5360,27 +5751,32 @@
         },
         {
             "usn": "1BY24EC117",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "NITIN RAJ"
         },
         {
             "usn": "1BY24EC118",
             "room_alloted": "LAB BLOCK TR-209"
         },
         {
-            "usn":  "1BY24EC119",
-            "room_alloted": "LAB BLOCK TR-209"
+            "usn": "1BY24EC119",
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "PADMA VARSHINI D"
         },
         {
             "usn": "1BY24EC120",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "PARINITHA V"
         },
         {
             "usn": "1BY24EC121",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "PARVATHY R"
         },
         {
             "usn": "1BY24EC123",
-            "room_alloted": "LAB BLOCK TR-209"
+            "room_alloted": "LAB BLOCK TR-209",
+            "name": "POOJA M R"
         },
         {
             "usn": "1TD24CS322",
@@ -5408,8 +5804,7 @@
         },
         {
             "usn": "1TD24CS328",
-            "room_alloted": "LAB BLOCK TR-209",
-            "name": "CS YAISHNAVI K KRISHNA MURTHY"
+            "room_alloted": "LAB BLOCK TR-209"
         },
         {
             "usn": "1TD24CS329",
@@ -5425,13 +5820,11 @@
         },
         {
             "usn": "1TD24CS333",
-            "room_alloted": "LAB BLOCK TR-209",
-            "name": "CS VARUN D DHRUVARAJ G"
+            "room_alloted": "LAB BLOCK TR-209"
         },
         {
             "usn": "1TD24CS335",
-            "room_alloted": "LAB BLOCK TR-209",
-            "name": "CS VIKAS BELAKERI TIRAKAPPA"
+            "room_alloted": "LAB BLOCK TR-209"
         },
         {
             "usn": "1TD24CS336",
@@ -5466,8 +5859,9 @@
             "room_alloted": "LAB BLOCK TR-209"
         },
         {
-            "usn":  "1BY24EC124",
-            "room_alloted": "LAB BLOCK CR-301"
+            "usn": "1BY24EC124",
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "POORNITH J K"
         },
         {
             "usn": "1BY24EC125",
@@ -5475,7 +5869,8 @@
         },
         {
             "usn": "1BY24EC126",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PRABHAKANTH BHAT"
         },
         {
             "usn": "1BY24EC128",
@@ -5483,67 +5878,82 @@
         },
         {
             "usn": "1BY24EC129",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PRAJWAL SRINATH G"
         },
         {
             "usn": "1BY24EC130",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PRANATHI N"
         },
         {
             "usn": "1BY24EC131",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PRANATHI RAJEEV GIRIMAJI"
         },
         {
             "usn": "1BY24EC132",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PRASHANT THAKUR"
         },
         {
-            "usn":  "1BY24EC133",
-            "room_alloted": "LAB BLOCK CR-301"
+            "usn": "1BY24EC133",
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PRATEEK GURURAJ DESHPANDE"
         },
         {
             "usn": "1BY24EC134",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PRATHAAA M GADAL"
         },
         {
             "usn": "1BY24EC135",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PRAVEEN KUMAR M"
         },
         {
             "usn": "1BY24EC136",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PREETHAM B Y"
         },
         {
             "usn": "1BY24EC137",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PRERANA GANESH HEGDE"
         },
         {
             "usn": "1BY24EC138",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PRISHA KULKARNI"
         },
         {
             "usn": "1BY24EC139",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "PURVITHA C S"
         },
         {
-            "usn":  "1BY24EC140",
-            "room_alloted": "LAB BLOCK CR-301"
+            "usn": "1BY24EC140",
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "R VINAY KUMAR"
         },
         {
             "usn": "1BY24EC141",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "RACHANA B"
         },
         {
             "usn": "1BY24EC142",
-            "room_alloted": "LAB BLOCK CR-301"
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "RAHUL UDISHTAN"
         },
         {
             "usn": "1BY24EC143",
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1BY24EC144",
-            "room_alloted": "LAB BLOCK CR-301"
+            "usn": "1BY24EC144",
+            "room_alloted": "LAB BLOCK CR-301",
+            "name": "RITHESH S"
         },
         {
             "usn": "1TD24CS344",
@@ -5563,34 +5973,30 @@
         },
         {
             "usn": "1TD24CS348",
-            "room_alloted": "LAB BLOCK CR-301",
-            "name": "CS YUVAN R RAMESH P"
+            "room_alloted": "LAB BLOCK CR-301"
         },
         {
             "usn": "1TD24CS349",
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1TE24CS001",
-            "room_alloted": "LAB BLOCK CR-301",
-            "name": "CS A MOKSHITH A BALARAJU"
+            "usn": "1TE24CS001",
+            "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1TE24CS002",
-            "room_alloted": "LAB BLOCK CR-301",
-            "name": "CS MDARSH JHA SAROJ KUMAR JHA"
+            "usn": "1TE24CS002",
+            "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1TE24CS004",
+            "usn": "1TE24CS004",
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
             "usn": "1TE24CS005",
-            "room_alloted": "LAB BLOCK CR-301",
-            "name": "CS MDITYA KUMAR THAKUR DIPENDRA THAKUR"
+            "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1TE24CS006",
+            "usn": "1TE24CS006",
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
@@ -5598,16 +6004,15 @@
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1TE24CS008",
-            "room_alloted": "LAB BLOCK CR-301",
-            "name": "CS AARIF KHAN FIROJ AHAMAD KHAN"
-        },
-        {
-            "usn":  "1TE24CS009",
+            "usn": "1TE24CS008",
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1TE24CS010",
+            "usn": "1TE24CS009",
+            "room_alloted": "LAB BLOCK CR-301"
+        },
+        {
+            "usn": "1TE24CS010",
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
@@ -5615,19 +6020,19 @@
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1TE24CS013",
+            "usn": "1TE24CS013",
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1TE24CS014",
+            "usn": "1TE24CS014",
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1TE24CS015",
+            "usn": "1TE24CS015",
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
-            "usn":  "1TE24CS016",
+            "usn": "1TE24CS016",
             "room_alloted": "LAB BLOCK CR-301"
         },
         {
@@ -5636,106 +6041,125 @@
         },
         {
             "usn": "1BY24ME002",
-            "room_alloted": "LAB BLOCK CR-501"
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "AASHISH S BADIGER"
         },
         {
-            "usn":  "1BY24ME003",
-            "room_alloted": "LAB BLOCK CR-501"
+            "usn": "1BY24ME003",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "AATIF MOHIDEEN"
         },
         {
-            "usn":  "1BY24ME004",
-            "room_alloted": "LAB BLOCK CR-501"
+            "usn": "1BY24ME004",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "AKASH MALLAPPA KARABASANAVA"
         },
         {
-            "usn":  "1BY24ME005",
-            "room_alloted": "LAB BLOCK CR-501"
+            "usn": "1BY24ME005",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "AKSHAY KAMATH"
         },
         {
             "usn": "1BY24ME006",
-            "room_alloted": "LAB BLOCK CR-501"
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "ANDREW TOM JACOB"
         },
         {
-            "usn":  "1BY24ME007",
-            "room_alloted": "LAB BLOCK CR-501"
+            "usn": "1BY24ME007",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "ANISH CHETRI"
         },
         {
             "usn": "1BY24ME008",
-            "room_alloted": "LAB BLOCK CR-501"
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "ANNADANI MAHADEVAPPA"
         },
         {
             "usn": "1BY24ME009",
-            "room_alloted": "LAB BLOCK CR-501"
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "ARJUN LIVIK J P"
         },
         {
             "usn": "1BY24ME010",
-            "room_alloted": "LAB BLOCK CR-501"
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "BHAGYESH S"
         },
         {
-            "usn":  "1BY24ME011",
-            "room_alloted": "LAB BLOCK CR-501"
+            "usn": "1BY24ME011",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "BHARADWAJ M R"
         },
         {
             "usn": "1BY24ME012",
-            "room_alloted": "LAB BLOCK CR-501"
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "BHARATH R J"
         },
         {
-            "usn":  "1BY24ME013",
-            "room_alloted": "LAB BLOCK CR-501"
+            "usn": "1BY24ME013",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "DHANUSH H C"
         },
         {
-            "usn":  "1BY24ME014",
-            "room_alloted": "LAB BLOCK CR-501"
+            "usn": "1BY24ME014",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "DHANYA S B"
         },
         {
             "usn": "1BY24ME015",
-            "room_alloted": "LAB BLOCK CR-501"
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "DHEERAJ R K"
         },
         {
-            "usn":  "1BY24ME016",
-            "room_alloted": "LAB BLOCK CR-501"
+            "usn": "1BY24ME016",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "KANATH NEELKANT"
         },
         {
             "usn": "1BY24EE061",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "VAISHNAVI VIJAYKUMAR"
+        },
+        {
+            "usn": "1BY24EE062",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "VANSHIKA SATRUGHAN"
+        },
+        {
+            "usn": "1BY24EE063",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "VARSHA V"
+        },
+        {
+            "usn": "1BY24EE064",
+            "room_alloted": "LAB BLOCK CR-501",
+            "name": "VASUMATHI M"
+        },
+        {
+            "usn": "1TE24CS162",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1BY24EE062",
+            "usn": "1TE24CS163",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1BY24EE063",
+            "usn": "1TE24CS164",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1BY24EE064",
+            "usn": "1TE24CS165",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS162",
+            "usn": "1TE24CS166",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS163",
+            "usn": "1TE24CS167",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS164",
-            "room_alloted": "LAB BLOCK CR-501"
-        },
-        {
-            "usn":  "1TE24CS165",
-            "room_alloted": "LAB BLOCK CR-501"
-        },
-        {
-            "usn":  "1TE24CS166",
-            "room_alloted": "LAB BLOCK CR-501"
-        },
-        {
-            "usn":  "1TE24CS167",
-            "room_alloted": "LAB BLOCK CR-501"
-        },
-        {
-            "usn":  "1TE24CS168",
+            "usn": "1TE24CS168",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
@@ -5743,43 +6167,43 @@
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS170",
+            "usn": "1TE24CS170",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS171",
+            "usn": "1TE24CS171",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS172",
+            "usn": "1TE24CS172",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS174",
+            "usn": "1TE24CS174",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS175",
+            "usn": "1TE24CS175",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS176",
+            "usn": "1TE24CS176",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS177",
+            "usn": "1TE24CS177",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS178",
+            "usn": "1TE24CS178",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS179",
+            "usn": "1TE24CS179",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS180",
+            "usn": "1TE24CS180",
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
@@ -5787,104 +6211,123 @@
             "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1TE24CS182",
-            "room_alloted": "LAB BLOCK CR-501",
-            "name": "CS NEDIUM CHANDANA NEDIUM CHENGAL REDDY"
+            "usn": "1TE24CS182",
+            "room_alloted": "LAB BLOCK CR-501"
         },
         {
-            "usn":  "1BY24ME017",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME017",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "GAGAN G T"
         },
         {
-            "usn":  "1BY24ME018",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME018",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "HARIHARAN N"
         },
         {
-            "usn":  "1BY24ME019",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME019",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "HARISH KUMAR K H"
         },
         {
-            "usn":  "1BY24ME020",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME020",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "HIMANSHU D KOLCHAR"
         },
         {
             "usn": "1BY24ME021",
-            "room_alloted": "LAB BLOCK CR-502"
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "HRISHEEL S"
         },
         {
-            "usn":  "1BY24ME022",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME022",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "HUNAIN BAIG M"
         },
         {
             "usn": "1BY24ME023",
-            "room_alloted": "LAB BLOCK CR-502"
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "KARTHIK GOPAL HALLIYUR"
         },
         {
             "usn": "1BY24ME024",
-            "room_alloted": "LAB BLOCK CR-502"
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "K RAN SANTOSH"
         },
         {
-            "usn":  "1BY24ME025",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME025",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "KISHAN B S"
         },
         {
-            "usn":  "1BY24ME026",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME026",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "KOTTAMTHE RANJIV KRISHNAN"
         },
         {
-            "usn":  "1BY24ME027",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME027",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "LAKSHMI NAGAPPA"
         },
         {
             "usn": "1BY24ME028",
-            "room_alloted": "LAB BLOCK CR-502"
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "LIKHITH S"
         },
         {
-            "usn":  "1BY24ME029",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME029",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "MANOJ REDDY M"
         },
         {
-            "usn":  "1BY24ME030",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME030",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "MARUTHI H R"
         },
         {
             "usn": "1BY24ME031",
-            "room_alloted": "LAB BLOCK CR-502"
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "MARUVADA SREE LAKSHMI VARSHITHA"
         },
         {
-            "usn":  "1BY24ME032",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME032",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "MOHAMMED ABDUL TAZEEM"
         },
         {
-            "usn":  "1BY24ME033",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME033",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "MOHAMMED ASIM ASHPAK SAYED"
         },
         {
-            "usn":  "1BY24ME034",
-            "room_alloted": "LAB BLOCK CR-502"
+            "usn": "1BY24ME034",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "MOHITH M"
         },
         {
             "usn": "1BY24ME035",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "NETHANYA G H"
+        },
+        {
+            "usn": "1BY24ME036",
+            "room_alloted": "LAB BLOCK CR-502",
+            "name": "NITHISH KUMAR V"
+        },
+        {
+            "usn": "1TE24CS183",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1BY24ME036",
+            "usn": "1TE24CS184",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS183",
+            "usn": "1TE24CS185",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS184",
-            "room_alloted": "LAB BLOCK CR-502"
-        },
-        {
-            "usn":  "1TE24CS185",
-            "room_alloted": "LAB BLOCK CR-502"
-        },
-        {
-            "usn":  "1TE24CS186",
+            "usn": "1TE24CS186",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
@@ -5892,217 +6335,235 @@
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS188",
+            "usn": "1TE24CS188",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS189",
+            "usn": "1TE24CS189",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS190",
+            "usn": "1TE24CS190",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS191",
+            "usn": "1TE24CS191",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS192",
+            "usn": "1TE24CS192",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS193",
-            "room_alloted": "LAB BLOCK CR-502",
-            "name": "CS NITYAM KUMAR GUPTA SANJAY KUMAR SAH KANU"
-        },
-        {
-            "usn":  "1TE24CS194",
+            "usn": "1TE24CS193",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS195",
+            "usn": "1TE24CS194",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS196",
+            "usn": "1TE24CS195",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS197",
+            "usn": "1TE24CS196",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS198",
+            "usn": "1TE24CS197",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS199",
+            "usn": "1TE24CS198",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS200",
+            "usn": "1TE24CS199",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS201",
+            "usn": "1TE24CS200",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1TE24CS202",
+            "usn": "1TE24CS201",
             "room_alloted": "LAB BLOCK CR-502"
         },
         {
-            "usn":  "1BY24ME037",
-            "room_alloted": "LAB BLOCK CR-503"
+            "usn": "1TE24CS202",
+            "room_alloted": "LAB BLOCK CR-502"
+        },
+        {
+            "usn": "1BY24ME037",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "NITHYA B"
         },
         {
             "usn": "1BY24ME038",
-            "room_alloted": "LAB BLOCK CR-503"
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "PADMODHAR P"
         },
         {
             "usn": "1BY24ME039",
-            "room_alloted": "LAB BLOCK CR-503"
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "PRANAV JAYAN R S"
         },
         {
-            "usn":  "1BY24ME040",
-            "room_alloted": "LAB BLOCK CR-503"
+            "usn": "1BY24ME040",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "PRANJAL RAJ"
         },
         {
-            "usn":  "1BY24ME041",
-            "room_alloted": "LAB BLOCK CR-503"
+            "usn": "1BY24ME041",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "PRATHAM PRABHUDEVA HAGARATAGI"
         },
         {
-            "usn":  "1BY24ME042",
-            "room_alloted": "LAB BLOCK CR-503"
+            "usn": "1BY24ME042",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "PUNITH M"
         },
         {
             "usn": "1BY24ME043",
-            "room_alloted": "LAB BLOCK CR-503"
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "RITHVIK R"
         },
         {
-            "usn":  "1BY24ME044",
-            "room_alloted": "LAB BLOCK CR-503"
+            "usn": "1BY24ME044",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "ROHIT SUNDAR"
         },
         {
             "usn": "1BY24ME045",
-            "room_alloted": "LAB BLOCK CR-503"
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "SAI PRAJWAL J"
         },
         {
-            "usn":  "1BY24ME046",
-            "room_alloted": "LAB BLOCK CR-503"
+            "usn": "1BY24ME046",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "SAI TEJAS MANTHA"
         },
         {
-            "usn":  "1BY24ME047",
-            "room_alloted": "LAB BLOCK CR-503"
+            "usn": "1BY24ME047",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "SAMARTH M HULAMANI"
         },
         {
-            "usn":  "1BY24ME048",
-            "room_alloted": "LAB BLOCK CR-503"
+            "usn": "1BY24ME048",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "SANJAY SRIRAJ P"
         },
         {
             "usn": "1BY24ME049",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1BY24ME050",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1BY24ME051",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1BY24ME053",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1BY24ME054",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1BY24ME055",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1BY24ME056",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1BY24ME057",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1TE24CS203",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1TE24CS204",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1TE24CS205",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1TE24CS206",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1TE24CS207",
-            "room_alloted": "LAB BLOCK CR-503"
-        },
-        {
-            "usn":  "1TE24CS208",
             "room_alloted": "LAB BLOCK CR-503",
-            "name": "CS PIYUSH SALUNKE SHIVAMY SALUNKE"
+            "name": "SHALINI SINGH"
         },
         {
-            "usn":  "1TE24CS209",
+            "usn": "1BY24ME050",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "SHREEKA DR DS"
+        },
+        {
+            "usn": "1BY24ME051",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "SINDHU N"
+        },
+        {
+            "usn": "1BY24ME053",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "SRUJAN A P"
+        },
+        {
+            "usn": "1BY24ME054",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "SUPRATIKSHA N"
+        },
+        {
+            "usn": "1BY24ME055",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "SUTEERTH SANJEEVKUMAR CHETTI"
+        },
+        {
+            "usn": "1BY24ME056",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "TANISH SARKAR"
+        },
+        {
+            "usn": "1BY24ME057",
+            "room_alloted": "LAB BLOCK CR-503",
+            "name": "THANUJ P"
+        },
+        {
+            "usn": "1TE24CS203",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS210",
+            "usn": "1TE24CS204",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS211",
+            "usn": "1TE24CS205",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS213",
+            "usn": "1TE24CS206",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS214",
+            "usn": "1TE24CS207",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS215",
+            "usn": "1TE24CS208",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS216",
+            "usn": "1TE24CS209",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS217",
+            "usn": "1TE24CS210",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS218",
+            "usn": "1TE24CS211",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS219",
+            "usn": "1TE24CS213",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS220",
+            "usn": "1TE24CS214",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
-            "usn":  "1TE24CS221",
+            "usn": "1TE24CS215",
+            "room_alloted": "LAB BLOCK CR-503"
+        },
+        {
+            "usn": "1TE24CS216",
+            "room_alloted": "LAB BLOCK CR-503"
+        },
+        {
+            "usn": "1TE24CS217",
+            "room_alloted": "LAB BLOCK CR-503"
+        },
+        {
+            "usn": "1TE24CS218",
+            "room_alloted": "LAB BLOCK CR-503"
+        },
+        {
+            "usn": "1TE24CS219",
+            "room_alloted": "LAB BLOCK CR-503"
+        },
+        {
+            "usn": "1TE24CS220",
+            "room_alloted": "LAB BLOCK CR-503"
+        },
+        {
+            "usn": "1TE24CS221",
             "room_alloted": "LAB BLOCK CR-503"
         },
         {
@@ -6115,27 +6576,33 @@
         },
         {
             "usn": "1BY24ME058",
-            "room_alloted": "LAB BLOCK CR-504"
+            "room_alloted": "LAB BLOCK CR-504",
+            "name": "THEJAS SRINIVAS"
         },
         {
             "usn": "1BY24ME059",
-            "room_alloted": "LAB BLOCK CR-504"
+            "room_alloted": "LAB BLOCK CR-504",
+            "name": "VARUN H R"
         },
         {
             "usn": "1BY24ME060",
-            "room_alloted": "LAB BLOCK CR-504"
+            "room_alloted": "LAB BLOCK CR-504",
+            "name": "VARUN H V"
         },
         {
             "usn": "1BY24ME061",
-            "room_alloted": "LAB BLOCK CR-504"
+            "room_alloted": "LAB BLOCK CR-504",
+            "name": "VIVEK D B"
         },
         {
             "usn": "1BY24ME062",
-            "room_alloted": "LAB BLOCK CR-504"
+            "room_alloted": "LAB BLOCK CR-504",
+            "name": "YAKSHITH M"
         },
         {
             "usn": "1BY24ME063",
-            "room_alloted": "LAB BLOCK CR-504"
+            "room_alloted": "LAB BLOCK CR-504",
+            "name": "YASHRAJ DESAI"
         },
         {
             "usn": "1TE24CS224",
@@ -6154,7 +6621,7 @@
             "room_alloted": "LAB BLOCK CR-504"
         },
         {
-            "usn":  "1TE24CS228",
+            "usn": "1TE24CS228",
             "room_alloted": "LAB BLOCK CR-504"
         },
         {
@@ -6218,7 +6685,7 @@
             "room_alloted": "LAB BLOCK CR-504"
         },
         {
-            "usn":  "1TE24CS244",
+            "usn": "1TE24CS244",
             "room_alloted": "LAB BLOCK CR-505"
         },
         {
@@ -6250,7 +6717,7 @@
             "room_alloted": "LAB BLOCK CR-505"
         },
         {
-            "usn":  "1TE24CS253",
+            "usn": "1TE24CS253",
             "room_alloted": "LAB BLOCK CR-505"
         },
         {
@@ -6314,7 +6781,7 @@
             "room_alloted": "LAB BLOCK CR-505"
         },
         {
-            "usn":  "1TE24CS269",
+            "usn": "1TE24CS269",
             "room_alloted": "LAB BLOCK CR-505"
         },
         {
@@ -6355,13 +6822,11 @@
         },
         {
             "usn": "1TE24CS280",
-            "room_alloted": "LAB BLOCK CR-505",
-            "name": "CS SUDEEPTO JHARIMUNYA IARADHAN JHARIMUNYA"
+            "room_alloted": "LAB BLOCK CR-505"
         },
         {
             "usn": "1TE24CS281",
-            "room_alloted": "LAB BLOCK CR-505",
-            "name": "CS SUJAL KUMAR KANU SURESH PRASAD KANU"
+            "room_alloted": "LAB BLOCK CR-505"
         },
         {
             "usn": "1TE24CS282",
@@ -6388,7 +6853,7 @@
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS288",
+            "usn": "1TE24CS288",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
@@ -6400,7 +6865,7 @@
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS291",
+            "usn": "1TE24CS291",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
@@ -6408,7 +6873,7 @@
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS293",
+            "usn": "1TE24CS293",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
@@ -6428,7 +6893,7 @@
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS298",
+            "usn": "1TE24CS298",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
@@ -6437,13 +6902,11 @@
         },
         {
             "usn": "1TE24CS300",
-            "room_alloted": "LAB BLOCK CR-506",
-            "name": "CS I"
+            "room_alloted": "LAB BLOCK CR-506"
         },
         {
             "usn": "1TE24CS301",
-            "room_alloted": "LAB BLOCK CR-506",
-            "name": "CS TASHYA SHRIVASTAV"
+            "room_alloted": "LAB BLOCK CR-506"
         },
         {
             "usn": "1TE24CS302",
@@ -6454,30 +6917,27 @@
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS304",
+            "usn": "1TE24CS304",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS305",
-            "room_alloted": "LAB BLOCK CR-506",
-            "name": "CS UJWAL U UDAY KUMAR"
+            "usn": "1TE24CS305",
+            "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS306",
+            "usn": "1TE24CS306",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
             "usn": "1TE24CS307",
-            "room_alloted": "LAB BLOCK CR-506",
-            "name": "CS VAIBHAVA KRISHNM A R MDHAKRISHNAN P"
+            "room_alloted": "LAB BLOCK CR-506"
         },
         {
             "usn": "1TE24CS308",
-            "room_alloted": "LAB BLOCK CR-506",
-            "name": "CS VAISHNAVI CHOUDHARY NIKHIL KUMAR CHOUDHARY"
+            "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS309",
+            "usn": "1TE24CS309",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
@@ -6485,11 +6945,11 @@
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS311",
+            "usn": "1TE24CS311",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS312",
+            "usn": "1TE24CS312",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
@@ -6509,7 +6969,7 @@
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS317",
+            "usn": "1TE24CS317",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
@@ -6517,7 +6977,7 @@
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
-            "usn":  "1TE24CS319",
+            "usn": "1TE24CS319",
             "room_alloted": "LAB BLOCK CR-506"
         },
         {
@@ -6545,322 +7005,351 @@
             "room_alloted": "A-104"
         },
         {
-            "usn":  "1BY21EC079",
+            "usn": "1BY21EC079",
             "room_alloted": "A-104"
         },
         {
-            "usn":  "1BY24EE007",
-            "room_alloted": "LAB BLOCK CR-305"
+            "usn": "1BY24EE007",
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "ANKITHA S"
         },
         {
             "usn": "1BY24EE009",
-            "room_alloted": "LAB BLOCK CR-305"
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "ARJUN MGHU"
         },
         {
             "usn": "1BY24EE010",
-            "room_alloted": "LAB BLOCK CR-305"
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "ARYA RANI"
         },
         {
-            "usn":  "1BY24EE011",
-            "room_alloted": "LAB BLOCK CR-305"
+            "usn": "1BY24EE011",
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "ASTHA JHA"
         },
         {
-            "usn":  "1BY24EE012",
-            "room_alloted": "LAB BLOCK CR-305"
+            "usn": "1BY24EE012",
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "B MAHALAKSHMI"
         },
         {
             "usn": "1BY24EE013",
-            "room_alloted": "LAB BLOCK CR-305"
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "B S ASHVIND"
         },
         {
             "usn": "1BY24EE014",
-            "room_alloted": "LAB BLOCK CR-305"
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "BALA VENMTA SAI VINAY"
         },
         {
-            "usn":  "1BY24EE015",
-            "room_alloted": "LAB BLOCK CR-305"
+            "usn": "1BY24EE015",
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "CHAITRA DESHPANDE"
         },
         {
-            "usn":  "1BY24EE016",
-            "room_alloted": "LAB BLOCK CR-305"
+            "usn": "1BY24EE016",
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "CHAITRA L"
         },
         {
-            "usn":  "1BY24EE017",
-            "room_alloted": "LAB BLOCK CR-305"
+            "usn": "1BY24EE017",
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "DALAVAI SAI HARSHITH"
         },
         {
-            "usn":  "1BY24EE018",
-            "room_alloted": "LAB BLOCK CR-305"
+            "usn": "1BY24EE018",
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "JEONA BANGANZA"
         },
         {
-            "usn":  "1BY24EE019",
-            "room_alloted": "LAB BLOCK CR-305"
+            "usn": "1BY24EE019",
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "DHARITRI S"
         },
         {
             "usn": "1BY24EE020",
-            "room_alloted": "LAB BLOCK CR-305"
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "FULZELE SARTHAK RAJENDRA"
         },
         {
-            "usn":  "1BY24EE021",
-            "room_alloted": "LAB BLOCK CR-305"
+            "usn": "1BY24EE021",
+            "room_alloted": "LAB BLOCK CR-305",
+            "name": "GOVIND M MADHIRAJU"
         },
         {
             "usn": "1BY24EE022",
-            "room_alloted": "LAB BLOCK CR-305"
-        },
-        {
-            "usn":  "1BY24EE023",
-            "room_alloted": "LAB BLOCK CR-305"
-        },
-        {
-            "usn":  "1TE24CS092",
-            "room_alloted": "LAB BLOCK CR-305"
-        },
-        {
-            "usn":  "1TE24CS093",
             "room_alloted": "LAB BLOCK CR-305",
-            "name": "CS CHAUHAN DHARMIT KAMLESHBHAI CHAUHAN KAMLESHBHAI"
+            "name": "H M NANDAN"
         },
         {
-            "usn":  "1TE24CS094",
-            "room_alloted": "LAB BLOCK CR-305"
-        },
-        {
-            "usn":  "1TE24CS095",
-            "room_alloted": "LAB BLOCK CR-305"
-        },
-        {
-            "usn":  "1TE24CS096",
-            "room_alloted": "LAB BLOCK CR-305"
-        },
-        {
-            "usn":  "1TE24CS097",
-            "room_alloted": "LAB BLOCK CR-305"
-        },
-        {
-            "usn":  "1TE24CS098",
+            "usn": "1BY24EE023",
             "room_alloted": "LAB BLOCK CR-305",
-            "name": "CS DEEPAK SHAH SANTOSH KUMAR SHAH HAL"
+            "name": "H P SINCHANA"
         },
         {
-            "usn":  "1TE24CS099",
+            "usn": "1TE24CS092",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS100",
+            "usn": "1TE24CS093",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS101",
+            "usn": "1TE24CS094",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS102",
+            "usn": "1TE24CS095",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS104",
+            "usn": "1TE24CS096",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS105",
+            "usn": "1TE24CS097",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS106",
+            "usn": "1TE24CS098",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS107",
+            "usn": "1TE24CS099",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS108",
+            "usn": "1TE24CS100",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS109",
+            "usn": "1TE24CS101",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS110",
+            "usn": "1TE24CS102",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS111",
+            "usn": "1TE24CS104",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS112",
+            "usn": "1TE24CS105",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS113",
+            "usn": "1TE24CS106",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS114",
+            "usn": "1TE24CS107",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS115",
+            "usn": "1TE24CS108",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1TE24CS116",
+            "usn": "1TE24CS109",
             "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1BY24EE024",
-            "room_alloted": "LAB BLOCK CR-401"
+            "usn": "1TE24CS110",
+            "room_alloted": "LAB BLOCK CR-305"
         },
         {
-            "usn":  "1BY24EE025",
-            "room_alloted": "LAB BLOCK CR-401"
+            "usn": "1TE24CS111",
+            "room_alloted": "LAB BLOCK CR-305"
+        },
+        {
+            "usn": "1TE24CS112",
+            "room_alloted": "LAB BLOCK CR-305"
+        },
+        {
+            "usn": "1TE24CS113",
+            "room_alloted": "LAB BLOCK CR-305"
+        },
+        {
+            "usn": "1TE24CS114",
+            "room_alloted": "LAB BLOCK CR-305"
+        },
+        {
+            "usn": "1TE24CS115",
+            "room_alloted": "LAB BLOCK CR-305"
+        },
+        {
+            "usn": "1TE24CS116",
+            "room_alloted": "LAB BLOCK CR-305"
+        },
+        {
+            "usn": "1BY24EE024",
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "HSKLOHITHSHRIRAM"
+        },
+        {
+            "usn": "1BY24EE025",
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "JAI KEERTHI B M"
         },
         {
             "usn": "1BY24EE026",
-            "room_alloted": "LAB BLOCK CR-401"
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "KRUPANKA S"
         },
         {
             "usn": "1BY24EE027",
-            "room_alloted": "LAB BLOCK CR-401"
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "KUMAR RAJ A N"
         },
         {
             "usn": "1BY24EE028",
-            "room_alloted": "LAB BLOCK CR-401"
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "LAKSHYA ANAND"
         },
         {
-            "usn":  "1BY24EE029",
-            "room_alloted": "LAB BLOCK CR-401"
+            "usn": "1BY24EE029",
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "M SHIVAKUMAR"
         },
         {
             "usn": "1BY24EE030",
-            "room_alloted": "LAB BLOCK CR-401"
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "MADHUSUDHAN C N"
         },
         {
             "usn": "1BY24EE031",
-            "room_alloted": "LAB BLOCK CR-401"
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "MAHANTESHWAM U"
         },
         {
             "usn": "1BY24EE032",
-            "room_alloted": "LAB BLOCK CR-401"
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "MANASA J A"
         },
         {
             "usn": "1BY24EE033",
-            "room_alloted": "LAB BLOCK CR-401"
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "MANASA K"
         },
         {
             "usn": "1BY24EE034",
-            "room_alloted": "LAB BLOCK CR-401"
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "MANJULA RANI P"
         },
         {
             "usn": "1BY24EE035",
-            "room_alloted": "LAB BLOCK CR-401"
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "MOHAIMINUL AZIZ"
         },
         {
             "usn": "1BY24EE036",
-            "room_alloted": "LAB BLOCK CR-401"
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "MOHITH KHOLA"
         },
         {
-            "usn":  "1BY24EE037",
-            "room_alloted": "LAB BLOCK CR-401"
+            "usn": "1BY24EE037",
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "MRINAL MURUGESHA"
         },
         {
             "usn": "1BY24EE038",
-            "room_alloted": "LAB BLOCK CR-401"
-        },
-        {
-            "usn":  "1BY24EE039",
-            "room_alloted": "LAB BLOCK CR-401"
-        },
-        {
-            "usn":  "1TE24CS117",
-            "room_alloted": "LAB BLOCK CR-401"
-        },
-        {
-            "usn":  "1TE24CS118",
-            "room_alloted": "LAB BLOCK CR-401"
-        },
-        {
-            "usn":  "1TE24CS119",
-            "room_alloted": "LAB BLOCK CR-401"
-        },
-        {
-            "usn":  "1TE24CS120",
-            "room_alloted": "LAB BLOCK CR-401"
-        },
-        {
-            "usn":  "1TE24CS121",
             "room_alloted": "LAB BLOCK CR-401",
-            "name": "CS HARSH RAJ RAJEEV KUMAR MNJAN"
+            "name": "NAGAVENI ADIVEPPA"
         },
         {
-            "usn":  "1TE24CS123",
+            "usn": "1BY24EE039",
+            "room_alloted": "LAB BLOCK CR-401",
+            "name": "NAKUL DABADE"
+        },
+        {
+            "usn": "1TE24CS117",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS124",
+            "usn": "1TE24CS118",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS125",
+            "usn": "1TE24CS119",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS126",
+            "usn": "1TE24CS120",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS127",
+            "usn": "1TE24CS121",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS128",
+            "usn": "1TE24CS123",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS129",
+            "usn": "1TE24CS124",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS130",
+            "usn": "1TE24CS125",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS131",
+            "usn": "1TE24CS126",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS132",
+            "usn": "1TE24CS127",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS133",
+            "usn": "1TE24CS128",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS134",
+            "usn": "1TE24CS129",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS135",
+            "usn": "1TE24CS130",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS136",
+            "usn": "1TE24CS131",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS137",
+            "usn": "1TE24CS132",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS138",
+            "usn": "1TE24CS133",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS139",
+            "usn": "1TE24CS134",
+            "room_alloted": "LAB BLOCK CR-401"
+        },
+        {
+            "usn": "1TE24CS135",
+            "room_alloted": "LAB BLOCK CR-401"
+        },
+        {
+            "usn": "1TE24CS136",
+            "room_alloted": "LAB BLOCK CR-401"
+        },
+        {
+            "usn": "1TE24CS137",
+            "room_alloted": "LAB BLOCK CR-401"
+        },
+        {
+            "usn": "1TE24CS138",
+            "room_alloted": "LAB BLOCK CR-401"
+        },
+        {
+            "usn": "1TE24CS139",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
@@ -6868,135 +7357,155 @@
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
-            "usn":  "1TE24CS141",
+            "usn": "1TE24CS141",
             "room_alloted": "LAB BLOCK CR-401"
         },
         {
             "usn": "1BY24EE040",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "NEMITHA V"
         },
         {
-            "usn":  "1BY24EE041",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE041",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "NITHIN B"
         },
         {
             "usn": "1BY24EE042",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "PRANAV JOGINDER"
         },
         {
             "usn": "1BY24EE043",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "PRATHYUSH B"
         },
         {
-            "usn":  "1BY24EE044",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE044",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "PRATIK V PATIL"
         },
         {
             "usn": "1BY24EE045",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "R THRIVIKRAM"
         },
         {
             "usn": "1BY24EE046",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "RACHITHA C"
         },
         {
             "usn": "1BY24EE047",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "ROHAN MUDGAL"
         },
         {
-            "usn":  "1BY24EE048",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE048",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SAMBHRAM RAM RANE"
         },
         {
-            "usn":  "1BY24EE049",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE049",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SANJANA S TN"
         },
         {
             "usn": "1BY24EE050",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SANJAY M"
         },
         {
             "usn": "1BY24EE051",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SAURABH KUMAR"
         },
         {
             "usn": "1BY24EE052",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SHREERAKSHA KIRAN"
         },
         {
-            "usn":  "1BY24EE054",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE054",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SHREYAS SATHYA"
         },
         {
-            "usn":  "1BY24EE055",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE055",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SHREYASH TIWARI"
         },
         {
-            "usn":  "1BY24EE056",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE056",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SIDDHARTH GAUTAM"
         },
         {
             "usn": "1BY24EE057",
-            "room_alloted": "LAB BLOCK CR-402"
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SUBRAHMANYA VIRENDRA"
         },
         {
-            "usn":  "1BY24EE058",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE058",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SUPREET S NIMBALKAR"
         },
         {
-            "usn":  "1BY24EE059",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE059",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SURAIYA C H"
         },
         {
-            "usn":  "1BY24EE060",
-            "room_alloted": "LAB BLOCK CR-402"
+            "usn": "1BY24EE060",
+            "room_alloted": "LAB BLOCK CR-402",
+            "name": "SUSHANTH P A"
         },
         {
             "usn": "1TE24CS142",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS143",
+            "usn": "1TE24CS143",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS144",
+            "usn": "1TE24CS144",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS145",
+            "usn": "1TE24CS145",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS146",
+            "usn": "1TE24CS146",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS147",
+            "usn": "1TE24CS147",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS148",
+            "usn": "1TE24CS148",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS149",
+            "usn": "1TE24CS149",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS150",
+            "usn": "1TE24CS150",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS151",
+            "usn": "1TE24CS151",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS152",
+            "usn": "1TE24CS152",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS153",
+            "usn": "1TE24CS153",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
@@ -7004,27 +7513,27 @@
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS156",
+            "usn": "1TE24CS156",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS157",
+            "usn": "1TE24CS157",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS158",
+            "usn": "1TE24CS158",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS159",
+            "usn": "1TE24CS159",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS160",
+            "usn": "1TE24CS160",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
-            "usn":  "1TE24CS161",
+            "usn": "1TE24CS161",
             "room_alloted": "LAB BLOCK CR-402"
         },
         {
@@ -7032,7 +7541,7 @@
             "room_alloted": "LAB BLOCK CR-204"
         },
         {
-            "usn":  "1BY24EC023",
+            "usn": "1BY24EC023",
             "room_alloted": "LAB BLOCK CR-204"
         },
         {
@@ -7040,16 +7549,18 @@
             "room_alloted": "LAB BLOCK CR-204"
         },
         {
-            "usn":  "1BY24EC025",
+            "usn": "1BY24EC025",
             "room_alloted": "LAB BLOCK CR-204"
         },
         {
-            "usn":  "1BY24EC026",
-            "room_alloted": "LAB BLOCK CR-204"
+            "usn": "1BY24EC026",
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "ARNAV PANIYA"
         },
         {
             "usn": "1BY24EC027",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "ASHMY M A"
         },
         {
             "usn": "1BY24EC028",
@@ -7057,15 +7568,18 @@
         },
         {
             "usn": "1BY24EC029",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "AYUSH MISHRA"
         },
         {
-            "usn":  "1BY24EC030",
-            "room_alloted": "LAB BLOCK CR-204"
+            "usn": "1BY24EC030",
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "AYUSHMAN SHARMA"
         },
         {
-            "usn":  "1BY24EC031",
-            "room_alloted": "LAB BLOCK CR-204"
+            "usn": "1BY24EC031",
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "B MANAS REDDY"
         },
         {
             "usn": "1BY24EC032",
@@ -7085,23 +7599,28 @@
         },
         {
             "usn": "1BY24EC037",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "CHINMAY RAVINDRA GOWDA"
         },
         {
             "usn": "1BY24EC038",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "CHIRAG GHOSH"
         },
         {
             "usn": "1BY24EC039",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "DARSHAN K"
         },
         {
             "usn": "1BY24EC040",
-            "room_alloted": "LAB BLOCK CR-204"
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "DARSHAN S"
         },
         {
-            "usn":  "1BY24EC041",
-            "room_alloted": "LAB BLOCK CR-204"
+            "usn": "1BY24EC041",
+            "room_alloted": "LAB BLOCK CR-204",
+            "name": "DASHAMI C"
         },
         {
             "usn": "1BY24EC042",
@@ -7189,7 +7708,8 @@
         },
         {
             "usn": "1BY24EC043",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "DEEPTHI URS M"
         },
         {
             "usn": "1BY24EC044",
@@ -7197,11 +7717,13 @@
         },
         {
             "usn": "1BY24EC045",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "DHRUV SWAROOP"
         },
         {
             "usn": "1BY24EC046",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "DHRUV TRIPATHI"
         },
         {
             "usn": "1BY24EC047",
@@ -7213,7 +7735,8 @@
         },
         {
             "usn": "1BY24EC049",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "DIVIT SHARMA"
         },
         {
             "usn": "1BY24EC050",
@@ -7225,11 +7748,13 @@
         },
         {
             "usn": "1BY24EC053",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "GURUDATT N"
         },
         {
             "usn": "1BY24EC054",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "H MOUNESH REDDY"
         },
         {
             "usn": "1BY24EC055",
@@ -7237,31 +7762,38 @@
         },
         {
             "usn": "1BY24EC056",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HARSHINI SHANKER"
         },
         {
             "usn": "1BY24EC057",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HARSHIT N M"
         },
         {
             "usn": "1BY24EC058",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HARSHITA S"
         },
         {
             "usn": "1BY24EC059",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HARSHITHA C"
         },
         {
             "usn": "1BY24EC060",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HASINI K V"
         },
         {
             "usn": "1BY24EC061",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HEMANTH S"
         },
         {
             "usn": "1BY24EC062",
-            "room_alloted": "LAB BLOCK CR-205"
+            "room_alloted": "LAB BLOCK CR-205",
+            "name": "HEMASHREE V R"
         },
         {
             "usn": "1BY24EC063",
@@ -7357,7 +7889,8 @@
         },
         {
             "usn": "1BY24EC066",
-            "room_alloted": "LAB BLOCK CR-206"
+            "room_alloted": "LAB BLOCK CR-206",
+            "name": "J KUSUM M N"
         },
         {
             "usn": "1BY24EC067",
@@ -7369,7 +7902,8 @@
         },
         {
             "usn": "1BY24EC069",
-            "room_alloted": "LAB BLOCK CR-206"
+            "room_alloted": "LAB BLOCK CR-206",
+            "name": "JISHNU K"
         },
         {
             "usn": "1BY24EC070",
@@ -7380,24 +7914,29 @@
             "room_alloted": "LAB BLOCK CR-206"
         },
         {
-            "usn":  "1BY24EC072",
-            "room_alloted": "LAB BLOCK CR-206"
+            "usn": "1BY24EC072",
+            "room_alloted": "LAB BLOCK CR-206",
+            "name": "KAPPA SIDHARTHA KRISHNA"
         },
         {
             "usn": "1BY24EC073",
-            "room_alloted": "LAB BLOCK CR-206"
+            "room_alloted": "LAB BLOCK CR-206",
+            "name": "KARTHIK P"
         },
         {
             "usn": "1BY24EC074",
-            "room_alloted": "LAB BLOCK CR-206"
+            "room_alloted": "LAB BLOCK CR-206",
+            "name": "KASINADHUNI VENKATA SATHVIK"
         },
         {
             "usn": "1BY24EC075",
-            "room_alloted": "LAB BLOCK CR-206"
+            "room_alloted": "LAB BLOCK CR-206",
+            "name": "KEERTHI G M"
         },
         {
             "usn": "1BY24EC076",
-            "room_alloted": "LAB BLOCK CR-206"
+            "room_alloted": "LAB BLOCK CR-206",
+            "name": "KIRTHANA J"
         },
         {
             "usn": "1BY24EC077",
@@ -7405,11 +7944,13 @@
         },
         {
             "usn": "1BY24EC078",
-            "room_alloted": "LAB BLOCK CR-206"
+            "room_alloted": "LAB BLOCK CR-206",
+            "name": "KRITHARTHA K"
         },
         {
             "usn": "1BY24EC079",
-            "room_alloted": "LAB BLOCK CR-206"
+            "room_alloted": "LAB BLOCK CR-206",
+            "name": "KRITHI A"
         },
         {
             "usn": "1TD24CS276",
@@ -7429,8 +7970,7 @@
         },
         {
             "usn": "1TD24CS280",
-            "room_alloted": "LAB BLOCK CR-206",
-            "name": "CS SNEHA TAPSE SHAM SUNDAR TAPSE"
+            "room_alloted": "LAB BLOCK CR-206"
         },
         {
             "usn": "1TD24CS281",
@@ -7442,8 +7982,7 @@
         },
         {
             "usn": "1TD24CS283",
-            "room_alloted": "LAB BLOCK CR-206",
-            "name": "CS SONU PRIYA G V VENKATESHAIAH G K"
+            "room_alloted": "LAB BLOCK CR-206"
         },
         {
             "usn": "1TD24CS284",
@@ -7507,8 +8046,7 @@
         },
         {
             "usn": "1TD24CS300",
-            "room_alloted": "LAB BLOCK CR-206",
-            "name": "CS SUNAINA P PARAMESHWAM B S"
+            "room_alloted": "LAB BLOCK CR-206"
         }
     ]
 }
