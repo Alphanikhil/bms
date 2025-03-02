@@ -1,28 +1,7432 @@
 {
-  "students": [
-    {
-      "usn": "ITD24AI118",
-      "name": "NIKHIL",
-      "branch": "AIML02",
-      "room_alloted": "BSN 303"
-    },
-    {
-      "usn": "ITD24AI119",
-      "name": "John Doe",
-      "branch": "AIML02",
-      "room_alloted": "BSN 303"
-    },
-    {
-      "usn": "ITD24AI120",
-      "name": "Jane Smith",
-      "branch": "AIML02",
-      "room_alloted": "BSN 303"
-    },
-     {
-      "usn": "NIKKU",
-      "name": "Jane Smith",
-      "branch": "AIML02",
-      "room_alloted": "BSN 303"
-    }
-  ]
-}
+    "students": [
+      {
+        "usn": "1BY24CS024",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24CS045",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24CS337",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI001",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI023",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI027",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI051",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI064",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI078",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": " 1BY24A1081",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI104",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI116",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI122",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI144",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI155",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI179",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI186",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1TD24AI044",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI002",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI007",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI012",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI013",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI015",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI017",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI019",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI020",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI022",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI033",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI034",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI036",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI037",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI040",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI041",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI049",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI050",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1BY24AI052",
+        "room_alloted": "A021"
+      },
+      {
+        "usn": "1TD24CS085",
+        "room_alloted": "A022"
+      },
+      {
+        "usn": "1TD24CS270",
+        "room_alloted": "A022"
+      },
+      {
+        "usn": "1TE24CS071",
+        "room_alloted": "A022"
+      },
+      {
+        "usn": "1TE24CS122",
+        "room_alloted": "A022"
+      },
+      {
+        "usn": "1TD24AI056",
+        "room_alloted": "A022"
+      },
+      {
+        "usn": "1TD24AI073",
+        "room_alloted": "A022"
+      },
+      {
+        "usn": "1TD24AI086",
+        "room_alloted": "A022"
+      },
+      {
+        "usn": "1TD24AI094",
+        "room_alloted": "A022"
+      },{
+        "usn": "1TE24CS173",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI093",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI094",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI096",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI099",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI101",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI103",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI105",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI107",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI112",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI113",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI124",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI125",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI127",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI132",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI135",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI136",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI140",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24AI141",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY23CS040",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS001",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS002",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS003",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS004",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS005",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS006",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS007",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS008",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS009",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS010",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS011",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS012",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS013",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS014",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS015",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS016",
+        "room_alloted": "A104"
+      },
+      {
+        "usn": "1BY24CS319",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS320",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS321",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS322",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": " 1BY24CS323",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS324",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS325",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS327",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS328",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS329",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS330",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS331",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS332",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS333",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS334",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS335",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS336",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS338",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS339",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CS340",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB040",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB041",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB042",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB043",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB044",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB045",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB046",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB047",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB048",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB049",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB050",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB051",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB052",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB053",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB054",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB055",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB056",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB057",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB058",
+        "room_alloted": "BSN 103"
+      },
+      {
+        "usn": "1BY24CB059",
+        "room_alloted": "BSN 103"
+      },{
+        "usn": "1BY24CS341",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS342",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS343",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS344",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS345",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS346",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS347",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS349",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS001",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS002",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS003",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS004",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS005",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS006",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS007",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS008",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS009",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS010",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS011",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1TD24CS012",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS069",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS106",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS150",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS155",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS187",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS232",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS254",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS269",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CS348",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CB060",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CB061",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CB062",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CB063",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CV014",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CV015",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CV002",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CV009",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CV010",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CV012",
+        "room_alloted": "BSN 104"
+      },
+      {
+        "usn": "1BY24CV013",
+        "room_alloted": "BSN 104"
+      },{
+        "usn": "1BY24EE040",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE041",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE042",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE043",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE044",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE045",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE046",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE047",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE048",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE049",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE050",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE051",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE052",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE054",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE055",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE056",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE057",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE058",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE059",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE060",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1TE24CS142",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24C5143",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS144",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS145",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS146",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS147",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS148",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS149",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS150",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS151",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS152",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS153",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS154",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1TE24CS155",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS156",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS157",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS158",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS159",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS160",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS161",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EC022",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC023",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC024",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC025",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC026",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC027",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC028",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC029",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC030",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC031",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC032",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC033",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC034",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC035",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC037",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC038",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC039",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC040",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC041",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC042",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS233",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS234",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS235",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS236",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS237",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS238",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS239",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS240",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS241",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS242",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS243",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS245",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS246",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS247",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS248",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS250",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS251",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS252",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS253",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS254",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC043",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC044",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC045",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC046",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC047",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC048",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC049",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC050",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC051",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC053",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC054",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC055",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC056",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC057",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC058",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC059",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC060",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC061",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC062",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC063",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS255",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS256",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS257",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS258",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS259",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS260",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS261",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS262",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS263",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS264",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS265",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS266",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS267",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS268",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS269",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS271",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS272",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS273",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS274",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS275",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS014",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS015",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS016",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS017",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS018",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS019",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS020",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS021",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS022",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS023",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS024",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS026",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS027",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS028",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS029",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS030",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS031",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS032",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS034",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1TD24CS035",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24CV022",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24CV023",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24CV024",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24CV026",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24CV027",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24CV029",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": " 1BY24CV036",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24CV040",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24CV041",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": " 1BY24CV042",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": " 1BY24CV054",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24CV056",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24CV057",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": " 1BY24CV060",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24EC010",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": " 1BY24EC021",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": " 1BY24EC036",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24EC052",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": " 1BY24EC080",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": " 1BY24EC083",
+        "room_alloted": "BSN CR 302"
+      },
+      {
+        "usn": "1BY24EC145",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC146",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC147",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": " 1BY24EC148",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC149",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC150",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC151",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC152",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC153",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC154",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC155",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC156",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC157",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC158",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC159",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC160",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC161",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC162",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC163",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1BY24EC164",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS017",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": " 1TE24CS018",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS019",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": " 1TE24CS020",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS021",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS022",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS023",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS024",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS025",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS026",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS027",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS028",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS029",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS030",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS031",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": " 1TE24CS032",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS033",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS034",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS035",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS036",
+        "room_alloted": "LAB BLOCK CR-302"
+      },
+      {
+        "usn": "1TE24CS037",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS038",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS039",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS040",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS042",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS043",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": " 1TE24CS044",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS045",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS046",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS047",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS049",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS050",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS052",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS053",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS054",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS055",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS056",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS057",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS058",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS059",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS060",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS061",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS063",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1TE24CS064",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC165",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC166",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC168",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC169",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC170",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC171",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC172",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC173",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC174",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC175",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC176",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC177",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC178",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": " 1BY24EC179",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC180",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EC181",
+        "room_alloted": "LAB CR 303"
+      },
+      {
+        "usn": "1BY24EE001",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EE002",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EE003",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EE004",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EE005",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EE006",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": " 1BY24EC182",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EC183",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EC184",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EC185",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EC186",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EC187",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EC189",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EC190",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EC191",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24EC192",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": " 1TE24CS065",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS066",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS067",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS068",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS069",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS070",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS072",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": " 1TE24CS073",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS074",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": " 1TE24CS075",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS076",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS077",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS078",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS080",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS081",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS082",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS083",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS084",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS085",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS086",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS088",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS089",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS090",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1TE24CS091",
+        "room_alloted": "LAB BLOCK CR-304"
+      },
+      {
+        "usn": "1BY24AI143",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI145",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI151",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI152",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI154",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI157",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI161",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI162",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI163",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI164",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI168",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI174",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI176",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI177",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI180",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI181",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI183",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24AI184",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS017",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS018",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS019",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS020",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS021",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS022",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS023",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS025",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS026",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS027",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS028",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS029",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS030",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS031",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS032",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS033",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS034",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS036",
+        "room_alloted": "A-124"
+      },
+      {
+        "usn": "1BY24CS035",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS109",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS124",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS138",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS140",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS147",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS169",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS172",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS179",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS209",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS226",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS238",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS263",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24AI185",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24AI187",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24AI188",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24AI189",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24AI191",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS037",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS038",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS039",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS040",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS041",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS042",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS043",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS044",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS046",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS047",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS048",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS049",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS050",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS051",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS052",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS053",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS054",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS055",
+        "room_alloted": "A-223"
+      },
+      {
+        "usn": "1BY24CS275",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS279",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS311",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS326",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI002",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI003",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI004",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI006",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI011",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI015",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI016",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI018",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI019",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI021",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI027",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI030",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI031",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI033",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS056",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS057",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS058",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS059",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS060",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS061",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS062",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS063",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS064",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS065",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS066",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS067",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS068",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS070",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS071",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS072",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS073",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS074",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS275",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS279",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS311",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS326",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI002",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI003",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI004",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI006",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI011",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI015",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI016",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI018",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI019",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI021",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI027",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI030",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI031",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1TD24AI033",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS056",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS057",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS058",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS059",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS060",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS061",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS062",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS063",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS064",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS065",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS066",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS067",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS068",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS070",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS071",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS072",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS073",
+        "room_alloted": "A-224"
+      },
+      {
+        "usn": "1BY24CS074",
+        "room_alloted": "A-224"
+      },{
+        "usn": "1TD24AI035",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI037",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI040",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI042",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI045",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI046",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI051",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI059",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI061",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI062",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI066",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI078",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI080",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI081",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI083",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI087",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI088",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI098",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS075",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS076",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS077",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS078",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS079",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS080",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS081",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS082",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS083",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS084",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS085",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS086",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS087",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS088",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS089",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS090",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS091",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1BY24CS092",
+        "room_alloted": "A-301"
+      },
+      {
+        "usn": "1TD24AI101",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI105",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI108",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI110",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI112",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI114",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI115",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI118",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI119",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI122",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI130",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI131",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI136",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI137",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI139",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI142",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI144",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24AI145",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS093",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS094",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS095",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS096",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS097",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS098",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS099",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS100",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS101",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS102",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS103",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS104",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS105",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS107",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS108",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS110",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS111",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1BY24CS112",
+        "room_alloted": "A-303"
+      },
+      {
+        "usn": "1TD24CS013",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24CS025",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24CS033",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24CS063",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI152",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI155",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI158",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI168",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI170",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI172",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI173",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI177",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI178",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI179",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI182",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI187",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI189",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24AI193",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS113",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS114",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS115",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS116",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS117",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS118",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS119",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS120",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS121",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS122",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS123",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS125",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS126",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS127",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS128",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS129",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS130",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1BY24CS131",
+        "room_alloted": "A-304"
+      },
+      {
+        "usn": "1TD24CS073",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS084",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS123",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS124",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS154",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS164",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS170",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS179",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS216",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS227",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS249",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS293",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS312",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS331",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TD24CS334",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TE24CS012",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TE24CS041",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1TE24CS051",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS132",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS133",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS134",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS135",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS136",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS137",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS139",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS141",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS142",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS143",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS144",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS145",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS146",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS148",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS149",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS151",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS152",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS154",
+        "room_alloted": "A-305"
+      },
+      {
+        "usn": "1BY24CS156",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS157",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS158",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS159",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS160",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS161",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS162",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS163",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS164",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS165",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS166",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS167",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS168",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS170",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS171",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS173",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS174",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS175",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY23EC011",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI003",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI004",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI005",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI006",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI008",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI009",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI010",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI011",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI014",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI016",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI018",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI021",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24AI024",
+        "room_alloted": "A-305/1"
+      },
+      {
+        "usn": "1BY24CS176",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS177",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS178",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS180",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS181",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS182",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS183",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS184",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS185",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS188",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS189",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS190",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS191",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS192",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS193",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS194",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS195",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24CS196",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI025",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI026",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI028",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI029",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI030",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI031",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI032",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI035",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI038",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI039",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI042",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI043",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI044",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI045",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI046",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI047",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI048",
+        "room_alloted": "A-320"
+      },
+      {
+        "usn": "1BY24AI054",
+        "room_alloted": "A-320"
+      },{
+        "usn": "1BY24CS256",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS257",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS258",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS259",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS260",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS261",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS262",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS264",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS265",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS266",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS267",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS268",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS270",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS271",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS272",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS273",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS274",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS276",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI158",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI159",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI160",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI165",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI166",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI167",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI169",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI170",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI171",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI172",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI173",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI175",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI178",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI182",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI190",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI192",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI193",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24AI194",
+        "room_alloted": "A-424"
+      },
+      {
+        "usn": "1BY24CS277",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS278",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS280",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS281",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS282",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS283",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS284",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS285",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS286",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS287",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS288",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS289",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS290",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS291",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS292",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS293",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS294",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS295",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS296",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS297",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24AI195",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB001",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB002",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB003",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB004",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB005",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB006",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB007",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB008",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB009",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB010",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB011",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB012",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB013",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB014",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB015",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB016",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB017",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB018",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CB019",
+        "room_alloted": "BSN CR-101"
+      },
+      {
+        "usn": "1BY24CS298",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS299",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS300",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS301",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS302",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS303",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS304",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS305",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS306",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS307",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS308",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS309",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS310",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS312",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS313",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS314",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS315",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS316",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS317",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CS318",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB020",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB021",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB022",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB023",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB024",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB025",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB026",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB027",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB028",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB029",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB030",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB031",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB032",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB033",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB034",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB035",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB036",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB037",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB038",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1BY24CB039",
+        "room_alloted": "BSN CR-102"
+      },
+      {
+        "usn": "1TD24CS036",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS037",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS038",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS039",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS040",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS041",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS042",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS043",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS044",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS045",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS047",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS048",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS049",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS050",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS051",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS052",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS053",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS054",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS055",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS056",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1BY24EC116",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1BY24EC122",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1BY24EC127",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1BY24EC188",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI001",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI005",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI007",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI008",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI009",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI010",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI012",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI013",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI014",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI017",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI020",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI022",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI023",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI024",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI025",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24AI026",
+        "room_alloted": "BSN CR-303"
+      },
+      {
+        "usn": "1TD24CS057",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS058",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS059",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS060",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS061",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS062",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS064",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS065",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS066",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS067",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS068",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS069",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS070",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS071",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS072",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS074",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS075",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS076",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS077",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS078",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI028",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI029",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI032",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI034",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI036",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI038",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI039",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI041",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI043",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI047",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI048",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI049",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI050",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI052",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI053",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI054",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI055",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI057",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI058",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24AI060",
+        "room_alloted": "BSN CR-304"
+      },
+      {
+        "usn": "1TD24CS079",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS080",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS081",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS082",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS083",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS086",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS087",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS088",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS089",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS090",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS091",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS092",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS093",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS094",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS095",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS096",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS097",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS098",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS099",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS100",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI063",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI064",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": " 1TD24AI065",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI067",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI068",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI069",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI070",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI071",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI072",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI074",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI076",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI077",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI079",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI082",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI084",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI085",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI089",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI090",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI091",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24AI092",
+        "room_alloted": "BSN CR-404"
+      },
+      {
+        "usn": "1TD24CS101",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS102",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS103",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS104",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS105",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS106",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS107",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS108",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS109",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS110",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS111",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS112",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS113",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS114",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS115",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS116",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS117",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS118",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS119",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS120",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI093",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI095",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI096",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI097",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI100",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI102",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI103",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI104",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI106",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI107",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI111",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI113",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI116",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI117",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI121",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI125",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI126",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI127",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI129",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24AI132",
+        "room_alloted": "BSN CR-503"
+      },
+      {
+        "usn": "1TD24CS121",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS122",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS125",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS126",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS127",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS128",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS129",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS130",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS131",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS133",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS134",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS135",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS136",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS137",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS138",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS139",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS140",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS141",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS142",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS143",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI133",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI134",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI135",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI138",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI140",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI141",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI143",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI146",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI147",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI148",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI149",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI150",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI151",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI153",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI154",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI156",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI159",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI160",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI161",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24AI162",
+        "room_alloted": "BSN CR-504"
+      },
+      {
+        "usn": "1TD24CS144",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS145",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS146",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS147",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS148",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS149",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS150",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS151",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS153",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS155",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS156",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS157",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS158",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS159",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS160",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS161",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS162",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS163",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS165",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS166",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS152",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24CS174",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI163",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI164",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI165",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI166",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI167",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI169",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI171",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI174",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI176",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI180",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI181",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI184",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI185",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI186",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI190",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI191",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI192",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1TD24AI194",
+        "room_alloted": "BSN TR-502"
+      },
+      {
+        "usn": "1BY22EE019",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV001",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV003",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV004",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV005",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": " 1BY24CV006",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV007",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV008",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV011",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV016",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV017",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV018",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV019",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV020",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV021",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS167",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS168",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS169",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS171",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS172",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS173",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS175",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS176",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS177",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS178",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS180",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS181",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS182",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS183",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS184",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS185",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS186",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS187",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS188",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS189",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS199",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TD24CS244",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": " 1TE24CS048",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TE24CS062",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1TE24CS274",
+        "room_alloted": "LAB BLOCK CR-201"
+      },
+      {
+        "usn": "1BY24CV025",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV028",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV030",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV031",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV034",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV035",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV037",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV038",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV039",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV043",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV045",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV046",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV047",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV049",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV050",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV051",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV052",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV053",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV055",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1BY24CV058",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS190",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS191",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS192",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS193",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS194",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS195",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS196",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS197",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS198",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS200",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS201",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS202",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS203",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS204",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS205",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS206",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS207",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS208",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS209",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": "1TD24CS210",
+        "room_alloted": "LAB BLOCK CR-202"
+      },
+      {
+        "usn": " 1BY24CV059",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC001",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": " 1BY24EC002",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": " 1BY24EC003",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC004",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC005",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": " 1BY24EC006",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC007",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC008",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": " 1BY24EC009",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC011",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC012",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC013",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": " 1BY24EC014",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC015",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC016",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC017",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC018",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC019",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC020",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS211",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS212",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS213",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS214",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS215",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS217",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS218",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS219",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS220",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS221",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS222",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS223",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS224",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS225",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS226",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS228",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS229",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS230",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS231",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1TD24CS232",
+        "room_alloted": "LAB BLOCK CR-203"
+      },
+      {
+        "usn": "1BY24EC081",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC082",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC084",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC085",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC086",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC087",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC088",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC089",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC090",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC091",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC092",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC093",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC094",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC095",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC096",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC097",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC098",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC099",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC100",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC101",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS301",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS302",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS303",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS304",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS305",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS306",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS307",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS308",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS309",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS310",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS311",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS313",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS314",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS315",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS316",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS317",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS318",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS319",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS320",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1TD24CS321",
+        "room_alloted": "LAB BLOCK TR-208"
+      },
+      {
+        "usn": "1BY24EC102",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC103",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC104",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC105",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC106",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC107",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC108",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC109",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC110",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC111",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC112",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC113",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC114",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC115",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC117",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC118",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": " 1BY24EC119",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC120",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC121",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1BY24EC123",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS322",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS323",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS324",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS325",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS326",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS327",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS328",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS329",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS330",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS332",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS333",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS335",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS336",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS337",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS338",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS339",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS340",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS341",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS342",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": "1TD24CS343",
+        "room_alloted": "LAB BLOCK TR-209"
+      },
+      {
+        "usn": " 1BY24EC124",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC125",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC126",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC128",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC129",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC130",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC131",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC132",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1BY24EC133",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC134",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC135",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC136",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC137",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC138",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC139",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1BY24EC140",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC141",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC142",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1BY24EC143",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1BY24EC144",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1TD24CS344",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1TD24CS345",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1TD24CS346",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1TD24CS347",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1TD24CS348",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1TD24CS349",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS001",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS002",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS004",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1TE24CS005",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS006",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1TE24CS007",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS008",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS009",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS010",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "1TE24CS011",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS013",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS014",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS015",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": " 1TE24CS016",
+        "room_alloted": "LAB BLOCK CR-301"
+      },
+      {
+        "usn": "BY24ME001",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": "1BY24ME002",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24ME003",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24ME004",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24ME005",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": "1BY24ME006",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24ME007",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": "1BY24ME008",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": "1BY24ME009",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": "1BY24ME010",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24ME011",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": "1BY24ME012",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24ME013",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24ME014",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": "1BY24ME015",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24ME016",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": "1BY24EE061",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24EE062",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24EE063",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24EE064",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS162",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS163",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS164",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS165",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS166",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS167",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS168",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": "1TE24CS169",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS170",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS171",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS172",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS174",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS175",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS176",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS177",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS178",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS179",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS180",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": "1TE24CS181",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1TE24CS182",
+        "room_alloted": "LAB BLOCK CR-501"
+      },
+      {
+        "usn": " 1BY24ME017",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME018",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME019",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME020",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": "1BY24ME021",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME022",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": "1BY24ME023",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": "1BY24ME024",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME025",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME026",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME027",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": "1BY24ME028",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME029",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME030",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": "1BY24ME031",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME032",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME033",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME034",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": "1BY24ME035",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME036",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS183",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS184",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS185",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS186",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": "1TE24CS187",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS188",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS189",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS190",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS191",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS192",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS193",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS194",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS195",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS196",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS197",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS198",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS199",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS200",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS201",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1TE24CS202",
+        "room_alloted": "LAB BLOCK CR-502"
+      },
+      {
+        "usn": " 1BY24ME037",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": "1BY24ME038",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": "1BY24ME039",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME040",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME041",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME042",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": "1BY24ME043",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME044",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": "1BY24ME045",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME046",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME047",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME048",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": "1BY24ME049",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME050",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME051",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME053",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME054",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME055",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME056",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1BY24ME057",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS203",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS204",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS205",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS206",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS207",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS208",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS209",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS210",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS211",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS213",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS214",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS215",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS216",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS217",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS218",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS219",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS220",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": " 1TE24CS221",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": "1TE24CS222",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": "1TE24CS223",
+        "room_alloted": "LAB BLOCK CR-503"
+      },
+      {
+        "usn": "1BY24ME058",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1BY24ME059",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1BY24ME060",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1BY24ME061",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1BY24ME062",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1BY24ME063",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS224",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS225",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS226",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS227",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": " 1TE24CS228",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS229",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS230",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS231",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS232",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS233",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS234",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS235",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS236",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS237",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS238",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS239",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS240",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS241",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS242",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": "1TE24CS243",
+        "room_alloted": "LAB BLOCK CR-504"
+      },
+      {
+        "usn": " 1TE24CS244",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS245",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS246",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS247",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS248",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS250",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS251",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS252",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": " 1TE24CS253",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS254",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS255",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS256",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS257",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS258",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS259",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS260",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS261",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS262",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS263",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS264",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS265",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS266",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS267",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS268",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": " 1TE24CS269",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS270",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS271",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS272",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS273",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS275",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS276",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS277",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS278",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS279",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS280",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS281",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS282",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS283",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS284",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS285",
+        "room_alloted": "LAB BLOCK CR-505"
+      },
+      {
+        "usn": "1TE24CS286",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS287",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS288",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS289",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS290",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS291",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS292",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS293",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS294",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS295",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS296",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS297",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS298",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS299",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS300",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS301",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS302",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS303",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS304",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS305",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS306",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS307",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS308",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS309",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS310",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS311",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS312",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS313",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS314",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS315",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS316",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS317",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS318",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": " 1TE24CS319",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS320",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS321",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1TE24CS322",
+        "room_alloted": "LAB BLOCK CR-506"
+      },
+      {
+        "usn": "1BY21ET039",
+        "room_alloted": "A-104"
+      },
+      {
+        "usn": "1BY21CV015",
+        "room_alloted": "A-104"
+      },
+      {
+        "usn": "1BY211S098",
+        "room_alloted": "A-104"
+      },
+      {
+        "usn": " 1BY21EC079",
+        "room_alloted": "A-104"
+      },
+      {
+        "usn": " 1BY24EE007",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": "1BY24EE009",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": "1BY24EE010",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1BY24EE011",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1BY24EE012",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": "1BY24EE013",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": "1BY24EE014",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1BY24EE015",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1BY24EE016",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1BY24EE017",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1BY24EE018",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1BY24EE019",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": "1BY24EE020",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1BY24EE021",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": "1BY24EE022",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1BY24EE023",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS092",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS093",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS094",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS095",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS096",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS097",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS098",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS099",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS100",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS101",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS102",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS104",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS105",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS106",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS107",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS108",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS109",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS110",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS111",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS112",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS113",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS114",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS115",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1TE24CS116",
+        "room_alloted": "LAB BLOCK CR-305"
+      },
+      {
+        "usn": " 1BY24EE024",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1BY24EE025",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE026",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE027",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE028",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1BY24EE029",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE030",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE031",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE032",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE033",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE034",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE035",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE036",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1BY24EE037",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE038",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1BY24EE039",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS117",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS118",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS119",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS120",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS121",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS123",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS124",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS125",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS126",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS127",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS128",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS129",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS130",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS131",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS132",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS133",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS134",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS135",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS136",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS137",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS138",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS139",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1TE24CS140",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": " 1TE24CS141",
+        "room_alloted": "LAB BLOCK CR-401"
+      },
+      {
+        "usn": "1BY24EE040",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE041",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE042",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE043",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE044",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE045",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE046",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE047",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE048",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE049",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE050",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE051",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE052",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE054",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE055",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE056",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EE057",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE058",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE059",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1BY24EE060",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1TE24CS142",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS143",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS144",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS145",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS146",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS147",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS148",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS149",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS150",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS151",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS152",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS153",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1TE24CS155",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS156",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS157",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS158",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS159",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS160",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": " 1TE24CS161",
+        "room_alloted": "LAB BLOCK CR-402"
+      },
+      {
+        "usn": "1BY24EC022",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC023",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC024",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC025",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC026",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC027",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC028",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC029",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC030",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC031",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC032",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC033",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC034",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC035",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC037",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC038",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC039",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC040",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": " 1BY24EC041",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC042",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS233",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS234",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS235",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS236",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS237",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS238",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS239",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS240",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS241",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS242",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS243",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS245",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS246",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS247",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS248",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS250",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS251",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS252",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS253",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1TD24CS254",
+        "room_alloted": "LAB BLOCK CR-204"
+      },
+      {
+        "usn": "1BY24EC043",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC044",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC045",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC046",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC047",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC048",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC049",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC050",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC051",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC053",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC054",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC055",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC056",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC057",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC058",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC059",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC060",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC061",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC062",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC063",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS255",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS256",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS257",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS258",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS259",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS260",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS261",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS262",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS263",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS264",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS265",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS266",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS267",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS268",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS269",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS271",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS272",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS273",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS274",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1TD24CS275",
+        "room_alloted": "LAB BLOCK CR-205"
+      },
+      {
+        "usn": "1BY24EC064",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC065",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC066",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC067",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC068",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC069",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC070",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC071",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": " 1BY24EC072",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC073",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC074",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC075",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC076",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC077",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC078",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1BY24EC079",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS276",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS277",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS278",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS279",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS280",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS281",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS282",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS283",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS284",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS285",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS286",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS287",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS288",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS289",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS290",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS291",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS292",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS294",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS295",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS296",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS297",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS298",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS299",
+        "room_alloted": "LAB BLOCK CR-206"
+      },
+      {
+        "usn": "1TD24CS300",
+        "room_alloted": "LAB BLOCK CR-206"
+      }
+    ]
+  }
+  
