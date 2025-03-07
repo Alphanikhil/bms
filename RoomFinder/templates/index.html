@@ -1,62 +1,29 @@
-
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Room Finder</title>
+    <title>Exam Over - Chill Mode</title>
     <link rel="stylesheet" href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css">
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            text-align: center;
+        }
+        .message {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
-    <div class="container py-5">
-        <div class="row justify-content-center">
-            <div class="col-md-6">
-                <div class="card">
-                    <div class="card-body">
-                        <h1 class="text-center mb-4"> BMSIT Room Finder</h1>
-                        <h6 class="text-center mb-4"> Exam Timing - 9:30 - 12:30 ( 3 MAR )</h6>
-
-                        {% with messages = get_flashed_messages(with_categories=true) %}
-                            {% if messages %}
-                                {% for category, message in messages %}
-                                    <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
-                                        {{ message }}
-                                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                                    </div>
-                                {% endfor %}
-                            {% endif %}
-                        {% endwith %}
-
-                        <form method="POST" action="/" id="roomFinderForm">
-                            <div class="mb-3">
-                                <label for="usn" class="form-label">Enter your USN</label>
-                                <input type="text" 
-                                       class="form-control form-control-lg" 
-                                       id="usn" 
-                                       name="usn" 
-                                       placeholder="Enter your USN"
-                                       required
-                                       maxlength="20">
-                            </div>
-                            <div class="d-grid">
-                                <button type="submit" class="btn btn-primary btn-lg">Find Room</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Footer section -->
-        <div class="text-center mt-4">
-            <p class="text-muted">Made by Catman</p>
-            <p class="text-muted">Ambivert | 192 🤞</p>
-            <p class="text-muted fst-italic">meow meow...😸</p>
-        </div>
-    </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <img src="{{ url_for('static', filename='good-morning.gif') }}" alt="Dancing Cat" class="img-fluid">
+    <div class="message">BHAI, EXAM KHATAM HO GAYA! CHILL KAR! 🎉😎</div>
+    <p class="text-muted fst-italic">meow meow...😸</p>
 </body>
 </html>
